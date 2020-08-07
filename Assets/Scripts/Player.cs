@@ -7,6 +7,7 @@ namespace SpriteFPS.General {
 
         private float moveX;
         private float moveZ;
+        private float rotateY;
 
         private Rigidbody playerRigidbody;
 
@@ -52,7 +53,7 @@ namespace SpriteFPS.General {
         // The function that handles the calls to move the player using vector math
         private void Move() {
             // Use the two store floats to create a new Vector3 variable movement.
-            Vector3 movement = new Vector3(moveX, 0f, moveZ);
+            Vector3 movement = new Vector3(moveX, 0, moveZ);
 
             movement = movement.normalized * speed * Time.deltaTime;
 
@@ -61,11 +62,11 @@ namespace SpriteFPS.General {
 
         // Moves the player around the world
         private void Turn() {
-            float rotateX = 5 * -Input.GetAxis("Mouse Y");
+            float rotateX = 0;/// 5 * -Input.GetAxis("Mouse Y");
 
-            float rotateY = 5 * Input.GetAxis("Mouse X");
+            rotateY  = 5 * Input.GetAxis("Mouse X");
             
-            Camera.main.transform.Rotate(rotateX, rotateY, 0);
+            this.transform.Rotate(rotateX, rotateY, 0);
         }
     }
 }
