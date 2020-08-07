@@ -5,24 +5,17 @@ namespace SpriteFPS.General {
     public class Player : MonoBehaviour {
         public float speed;
 
-        private float xRotation;
-        private float mouseSensitivity;
-
-        private float x;
-        private float z;
+        private float moveX;
+        private float moveZ;
 
         private Rigidbody playerRigidbody;
-        private Transform playerBody;
-        
 
         // Use this for initialization
         void Start() {
             speed = 8f;
-            
-            x = 0;
-            z = 0;
 
-            xRotation = 0f;
+            moveX = 0;
+            moveZ = 0;
 
             Cursor.lockState = CursorLockMode.Locked;
         }
@@ -32,7 +25,7 @@ namespace SpriteFPS.General {
             //DontDestroyOnLoad(this);
 
             playerRigidbody = GetComponent<Rigidbody>();
-            playerBody = GetComponent<Transform>();
+            
         }
 
         private void OnEnable() {
@@ -43,10 +36,10 @@ namespace SpriteFPS.General {
         // Update is called once per frame
         void Update() {
             // Store the current horizontal input in the float move_horizontal.
-            x = Input.GetAxis("Horizontal");
+            moveX = Input.GetAxis("Horizontal");
 
             // Store the current vertical input in the float move_vertical.
-            z = Input.GetAxis("Vertical");
+            moveZ = Input.GetAxis("Vertical");
         }
 
         // The physic update function
@@ -59,7 +52,7 @@ namespace SpriteFPS.General {
         // The function that handles the calls to move the player using vector math
         private void Move() {
             // Use the two store floats to create a new Vector3 variable movement.
-            Vector3 movement = new Vector3(x, 0f, z);
+            Vector3 movement = new Vector3(moveX, 0f, moveZ);
 
             movement = movement.normalized * speed * Time.deltaTime;
 
@@ -68,14 +61,11 @@ namespace SpriteFPS.General {
 
         // Moves the player around the world
         private void Turn() {
-            float rotateX = Input.GetAxis("Mouse X") * mouseSensitivity * Time.deltaTime;
-            float rotateY = Input.GetAxis("Mouse Y") * mouseSensitivity * Time.deltaTime;
+            float rotateX = 5 * -Input.GetAxis("Mouse Y");
 
-            xRotation -= rotateY;
-            xRotation = Mathf.Clamp(xRotation, -90f, 90f);
-
-            transform.localRotation = Quaternion.Euler(xRotation, 0f, 0f);
-            playerBody.Rotate(Vector3.up * rotateX);
+            float rotateY = 5 * Input.GetAxis("Mouse X");
+            
+            Camera.main.transform.Rotate(rotateX, rotateY, 0);
         }
     }
 }
