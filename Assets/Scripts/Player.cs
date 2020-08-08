@@ -3,11 +3,15 @@ using UnityEngine;
 
 namespace SpriteFPS.General {
     public class Player : MonoBehaviour {
-        public float speed;
 
+        public float speed;
         private float moveX;
         private float moveZ;
         private float rotateY;
+
+        public Camera mainView;
+
+        //public Interactable button;
 
         private Rigidbody playerRigidbody;
 
@@ -42,14 +46,9 @@ namespace SpriteFPS.General {
             // Store the current vertical input in the float move_vertical.
             moveZ = Input.GetAxis("Vertical");
 
-            //Interact();
+            Interact();
             // This doesnt work
-            if (Input.GetKeyDown(KeyCode.E))
-            {
 
-                Debug.LogError("Interact button works");
-
-            }
         }
 
         // The physic update function
@@ -80,7 +79,44 @@ namespace SpriteFPS.General {
         }
 
         private void Interact() {
+            //Debug.LogError("Interact Function Ran");
 
+            if (Input.GetKeyDown(KeyCode.E))
+            {
+
+                // Created a ray that goes from the user's view
+                Ray ray = mainView.ScreenPointToRay(Input.mousePosition);
+                RaycastHit hit;
+
+                // If the Ray hits something
+                if (Physics.Raycast(ray, out hit, 100)) {
+
+                    // Get the interactible object
+                    Interactable interactable = hit.collider.GetComponent<Interactable>();
+
+                    // Preform some action
+                    if (interactable != null) {
+
+                        Vector3 pos =  interactable.movingObject.transform.position;
+                        // Move an object
+                        Debug.LogError("Button Pressed");
+
+
+                        // Set the temp position to the current position.
+                       
+
+                        // Calculate where the new y will be.
+                        float newY = Mathf.Sin(Time.time * speed) * 10 + pos.y;
+
+                        // Set the new position.
+                        interactable.movingObject.transform.position = new Vector3(pos.x, newY, pos.z);
+
+                        //interactabe.movingObject.transform.position = tempPosition;
+
+
+                    }
+                }
+            }
         }
     }
 }

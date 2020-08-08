@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class DemoPickupBehavior : MonoBehaviour
 {
-    float floatHigh = 4;
-    float floatLow = -4;
 
     Vector2 offsetPosition = new Vector2();
     Vector2 tempPosition = new Vector2();

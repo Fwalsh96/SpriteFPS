@@ -269,7 +269,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 62e48567933f5ce438175e06adc364ed, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -313,6 +313,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!20 &579897984 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 7809379998699423099, guid: 09f102f2206b38b47937667d5e0ebc52, type: 3}
+  m_PrefabInstance: {fileID: 750592307}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &750592307
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -368,6 +373,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7809379998734748430, guid: 09f102f2206b38b47937667d5e0ebc52, type: 3}
+      propertyPath: mainView
+      value: 
+      objectReference: {fileID: 579897984}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 09f102f2206b38b47937667d5e0ebc52, type: 3}
 --- !u!1 &885580638
@@ -609,7 +618,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 62e48567933f5ce438175e06adc364ed, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -665,6 +674,7 @@ GameObject:
   - component: {fileID: 1427937368}
   - component: {fileID: 1427937367}
   - component: {fileID: 1427937366}
+  - component: {fileID: 1427937370}
   m_Layer: 0
   m_Name: Button
   m_TagString: Untagged
@@ -742,9 +752,23 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1427937365}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.14, y: 6.8, z: 1.614367}
+  m_LocalPosition: {x: -10.14, y: 5.91, z: 1.614367}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1427937370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1427937365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a30a459e497874bb9f976a5dfff6ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  radius: 3
+  movingObject: {fileID: 161212290}
