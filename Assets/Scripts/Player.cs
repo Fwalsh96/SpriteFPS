@@ -7,6 +7,7 @@ namespace SpriteFPS.General {
 
         private float moveX;
         private float moveZ;
+        private float rotateY;
 
         private Rigidbody playerRigidbody;
 
