@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class RotateSprite : MonoBehaviour
 {
-    public Camera theCamera;
+    public Transform theCamera;
 
     // Start is called before the first frame update
     void Start()
@@ -16,6 +16,6 @@ public class RotateSprite : MonoBehaviour
     void Update()
     {
         // This code causees the sprite to rotate based on where the camera. It is super buggy.
-        this.transform.Rotate(0, theCamera.transform.rotation.y, 0, 0);
+        transform.LookAt(theCamera);
     }
 }
