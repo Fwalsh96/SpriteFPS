@@ -41,6 +41,15 @@ namespace SpriteFPS.General {
 
             // Store the current vertical input in the float move_vertical.
             moveZ = Input.GetAxis("Vertical");
+
+            //Interact();
+            // This doesnt work
+            if (Input.GetKeyDown(KeyCode.E))
+            {
+
+                Debug.LogError("Interact button works");
+
+            }
         }
 
         // The physic update function
@@ -68,6 +77,10 @@ namespace SpriteFPS.General {
             float mouseSensivity = 100f;
 
             transform.Rotate(0, Input.GetAxis("Mouse X") * Time.deltaTime * mouseSensivity, 0);
+        }
+
+        private void Interact() {
+
         }
     }
 }
