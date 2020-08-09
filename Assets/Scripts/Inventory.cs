@@ -2,15 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//TODO Create an item pickup
+//TODO: Create an item pickup
 
 public class Inventory : MonoBehaviour {
     public static Inventory instance;
 
-    // Start is called before the first frame update
-    void Start() {
-        
-    }
+    //private List<ItemStats> items = new List<ItemStats>();     // Current list of all items in inventory
 
     private void Awake() {
         if (instance != null) {
@@ -22,8 +19,26 @@ public class Inventory : MonoBehaviour {
         instance = this;
     }
 
-    // Update is called once per frame
-    void Update() {
-        
-    }
+    //public bool Add(ItemStats item) {
+    //    if (!item.isDefaultItem) {
+    //        if (items.Count >= space) {
+    //            Debug.Log("Not enough room");
+    //            return false;
+    //        }
+
+    //        items.Add(item);
+
+    //        if (onItemChangedCallback != null)
+    //            onItemChangedCallback.Invoke();
+    //    }
+
+    //    return true;
+    //}
+
+    //public void Remove(ItemStats item) {
+    //    items.Remove(item);
+
+    //    if (onItemChangedCallback != null)
+    //        onItemChangedCallback.Invoke();
+    //}
 }

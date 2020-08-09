@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-//TODO Add custom keybindings
+//TODO: Add custom keybindings
 
 namespace SpriteFPS.General {
     public class Player : MonoBehaviour {
@@ -51,20 +51,9 @@ namespace SpriteFPS.General {
             // Store the current vertical input in the float move_vertical.
             moveZ = Input.GetAxis("Vertical");
 
-            //sprinting = Input.GetButtonDown("Fire3");
-
+            // Check to see if the player has to sprint
             if (Input.GetButton("Fire3"))
                 sprinting = !sprinting;
-
-            //if (Input.GetButton("Fire3")) {
-            //    sprinting = !sprinting;
-
-            //    speed = 12f;
-            //} else {
-            //    speed = 8f;
-            //}
-
-            
 
             //Interact();
         }
