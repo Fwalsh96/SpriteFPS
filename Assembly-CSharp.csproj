@@ -56,10 +56,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Player.cs" />
-    <Compile Include="Assets\Scripts\CameraController.cs" />
-    <Compile Include="Assets\Scripts\RotateSprite.cs" />
-    <Compile Include="Assets\Scripts\DemoPickupBehavior.cs" />
     <Compile Include="Assets\Scripts\Interactable.cs" />
+    <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\GameEvents.cs" />
+    <Compile Include="Assets\Scripts\RotateSprite.cs" />
+    <Compile Include="Assets\Scripts\Elevator.cs" />
+    <Compile Include="Assets\Scripts\DemoPickupBehavior.cs" />
+    <Compile Include="Assets\Scripts\ElevatorController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -30,7 +30,7 @@ namespace SpriteFPS.General {
             //DontDestroyOnLoad(this);
 
             playerRigidbody = GetComponent<Rigidbody>();
-            
+
         }
 
         private void OnEnable() {
@@ -83,6 +83,7 @@ namespace SpriteFPS.General {
 
             if (Input.GetKeyDown(KeyCode.E))
             {
+                Debug.Log("Button Pressed");
 
                 // Created a ray that goes from the user's view
                 Ray ray = mainView.ScreenPointToRay(Input.mousePosition);
@@ -97,26 +98,13 @@ namespace SpriteFPS.General {
                     // Preform some action
                     if (interactable != null) {
 
-                        Vector3 pos =  interactable.movingObject.transform.position;
-                        // Move an object
-                        Debug.LogError("Button Pressed");
-
-
-                        // Set the temp position to the current position.
-                       
-
-                        // Calculate where the new y will be.
-                        float newY = Mathf.Sin(Time.time * speed) * 10 + pos.y;
-
-                        // Set the new position.
-                        interactable.movingObject.transform.position = new Vector3(pos.x, newY, pos.z);
-
-                        //interactabe.movingObject.transform.position = tempPosition;
-
+                        interactable.activate();
 
                     }
                 }
             }
         }
     }
+
+
 }
