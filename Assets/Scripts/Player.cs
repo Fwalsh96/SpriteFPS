@@ -36,10 +36,7 @@ namespace SpriteFPS.General {
             //DontDestroyOnLoad(this);
 
             playerRigidbody = GetComponent<Rigidbody>();
-<<<<<<< HEAD
 
-=======
->>>>>>> 1c667ff3be90d84af13a2a2e303e684a84c69277
         }
 
         private void OnEnable() {
@@ -59,7 +56,7 @@ namespace SpriteFPS.General {
             if (Input.GetButton("Fire3"))
                 sprinting = !sprinting;
 
-            //Interact();
+            Interact();
         }
 
         // The physic update function
@@ -102,7 +99,7 @@ namespace SpriteFPS.General {
 
             if (Input.GetKeyDown(KeyCode.E))
             {
-                Debug.Log("Button Pressed");
+                //Debug.Log("Button Pressed");
 
                 // Created a ray that goes from the user's view
                 Ray ray = mainView.ScreenPointToRay(Input.mousePosition);
