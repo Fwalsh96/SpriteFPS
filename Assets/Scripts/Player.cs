@@ -1,13 +1,17 @@
 ﻿using System;
 using UnityEngine;
 
+//TODO: Add custom keybindings
+
 namespace SpriteFPS.General {
     public class Player : MonoBehaviour {
 
         public float speed;
+        
         private float moveX;
         private float moveZ;
-        private float rotateY;
+
+        private bool sprinting;
 
         public Camera mainView;
 
@@ -22,6 +26,8 @@ namespace SpriteFPS.General {
             moveX = 0;
             moveZ = 0;
 
+            sprinting = false;
+
             Cursor.lockState = CursorLockMode.Locked;
         }
 
@@ -30,7 +36,10 @@ namespace SpriteFPS.General {
             //DontDestroyOnLoad(this);
 
             playerRigidbody = GetComponent<Rigidbody>();
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1c667ff3be90d84af13a2a2e303e684a84c69277
         }
 
         private void OnEnable() {
@@ -46,9 +55,11 @@ namespace SpriteFPS.General {
             // Store the current vertical input in the float move_vertical.
             moveZ = Input.GetAxis("Vertical");
 
-            Interact();
-            // This doesnt work
+            // Check to see if the player has to sprint
+            if (Input.GetButton("Fire3"))
+                sprinting = !sprinting;
 
+            //Interact();
         }
 
         // The physic update function
@@ -56,6 +67,9 @@ namespace SpriteFPS.General {
             Move();
 
             Turn();
+
+            if (sprinting == true)
+                Debug.Log("Player is sprinting");
         }
 
         // The function that handles the calls to move the player using vector math
@@ -63,8 +77,13 @@ namespace SpriteFPS.General {
             // Moves the player based on their direction
             Vector3 movement = transform.right * moveX + transform.forward * moveZ;
 
-            // Add the speed and only applies this calculation per second
-            movement = movement.normalized * speed * Time.deltaTime;
+            // Add the sprinting speed if it applies
+            if (sprinting) {
+                movement = movement.normalized * speed * Time.deltaTime;
+            } else {
+                // Add the speed and apply this calculation per second
+                movement = movement.normalized * speed * Time.deltaTime;
+            }
 
             // Apply the movement
             playerRigidbody.MovePosition(playerRigidbody.position + movement);

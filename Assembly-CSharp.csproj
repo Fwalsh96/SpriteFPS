@@ -62,7 +62,11 @@
     <Compile Include="Assets\Scripts\RotateSprite.cs" />
     <Compile Include="Assets\Scripts\Elevator.cs" />
     <Compile Include="Assets\Scripts\DemoPickupBehavior.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Scripts\ElevatorController.cs" />
+=======
+    <Compile Include="Assets\Scripts\Inventory.cs" />
+>>>>>>> 1c667ff3be90d84af13a2a2e303e684a84c69277
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
