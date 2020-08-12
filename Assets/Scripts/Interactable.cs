@@ -12,15 +12,6 @@ public class Interactable : MonoBehaviour
 
         Debug.Log("Hit Activate");
 
-        
-        //StartCoroutine(movingObject.elevatorBack());
-
-
-        //movingObject.triggered = true;
-
-
-        GameEvents.current.ElevatorTriggerRaise();
+        GameEvents.current.ElevatorTriggerRaise(theObject.id);
     }
-    
-
 }

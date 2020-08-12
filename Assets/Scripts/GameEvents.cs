@@ -14,14 +14,14 @@ public class GameEvents : MonoBehaviour
         current = this;
     }
 
-    public event Action onElevatorTriggerRaise;
-    public void ElevatorTriggerRaise() {
+    public event Action<int> onElevatorTriggerRaise;
+    public void ElevatorTriggerRaise(int id) {
 
         if (onElevatorTriggerRaise != null) {
 
             Debug.Log("Made it to the Elevator Trigger Raise Function"); 
 
-            onElevatorTriggerRaise();
+            onElevatorTriggerRaise(id);
         }
     }
 
