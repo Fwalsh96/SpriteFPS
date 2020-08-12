@@ -17,7 +17,7 @@ public class CameraController : MonoBehaviour {
     void Start() {
         
     }
-
+    
     private void Awake() {
         rotateX = 0.0f;
     }

@@ -2,6 +2,9 @@
 
 public class Interactable : MonoBehaviour
 {
+    public ElevatorController theObject;
+
+
     // How close the player needs to be to interact with the object.
     public float radius = 3f;
 
@@ -9,7 +12,7 @@ public class Interactable : MonoBehaviour
 
         Debug.Log("Hit Activate");
 
-
+        
         //StartCoroutine(movingObject.elevatorBack());
 
 
