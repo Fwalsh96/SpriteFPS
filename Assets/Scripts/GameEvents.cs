@@ -25,4 +25,9 @@ public class GameEvents : MonoBehaviour
         }
     }
 
+    public event Action<int> onSpriteActivate;
+    public void SpriteActivate(int id) {
+    
+    }
+
 }
