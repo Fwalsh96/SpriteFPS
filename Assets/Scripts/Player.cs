@@ -6,16 +6,21 @@ using UnityEngine;
 namespace SpriteFPS.General {
     public class Player : MonoBehaviour {
 
+        // Player Stats
+        public int maxHealth = 100;
+        public int maxArmor = 100;
+        public int health = 100;
+        public int armor = 100;
+        int[] ammo;
+        Weapon[] weapons;
+
         public float speed;
-        
         private float moveX;
         private float moveZ;
 
         private bool sprinting;
 
         public Camera mainView;
-
-        //public Interactable button;
 
         private Rigidbody playerRigidbody;
 
@@ -93,6 +98,7 @@ namespace SpriteFPS.General {
 
             transform.Rotate(0, Input.GetAxis("Mouse X") * Time.deltaTime * mouseSensivity, 0);
         }
+
 
         private void Interact() {
             //Debug.LogError("Interact Function Ran");
