@@ -28,7 +28,11 @@ public class GameEvents : MonoBehaviour
     // Function for sprite activation
     public event Action<int> onSpriteActivate;
     public void SpriteActivate(int id) {
-    
+
+        if (onSpriteActivate != null) {
+
+            onSpriteActivate(id);
+        }
     }
 
     // Function for doors

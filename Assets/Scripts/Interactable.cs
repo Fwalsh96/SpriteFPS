@@ -16,9 +16,14 @@ public class Interactable : MonoBehaviour
             case "Elevator":
                 GameEvents.current.ElevatorTriggerRaise(theObject.id);
                 break;
+
             case "Door":
                 Debug.Log("Made it to door case");
                 GameEvents.current.DoorTriggerOpen(theObject.id);
+                break;
+
+            case "SpriteObject":
+                GameEvents.current.SpriteActivate(theObject.id);
                 break;
 
         

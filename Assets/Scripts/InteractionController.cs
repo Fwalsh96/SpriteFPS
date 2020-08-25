@@ -24,6 +24,8 @@ public class InteractionController : MonoBehaviour
                 Debug.Log("Hit other case for door");
                 GameEvents.current.onDoorTriggerOpen += OnDoorOpen;
                 break;
+            case "SpriteObject":
+                GameEvents.current.onSpriteActivate += 
 
             default:
                 // Interactable object does nothing
@@ -52,6 +54,13 @@ public class InteractionController : MonoBehaviour
 
             StartCoroutine(fullDoorFunction());
 
+        }
+    }
+
+    private void onSpriteActivated(int id) {
+        if (id == this.id) {
+            
+            // Change the sprite here. May need sprite game events to make these work 
         }
     }
 
