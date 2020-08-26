@@ -4,6 +4,7 @@ using UnityEngine;
 public class Interactable : MonoBehaviour
 {
     public InteractionController theObject;
+    public SpriteInteractionController spObject;
 
     // How close the player needs to be to interact with the object.
     public float radius = 3f;
@@ -12,22 +13,33 @@ public class Interactable : MonoBehaviour
 
         Debug.Log("Hit Activate");
 
-        switch (theObject.tag) {
-            case "Elevator":
-                GameEvents.current.ElevatorTriggerRaise(theObject.id);
-                break;
+        if (theObject != null)
+        {
 
-            case "Door":
-                Debug.Log("Made it to door case");
-                GameEvents.current.DoorTriggerOpen(theObject.id);
-                break;
+            switch (theObject.tag)
+            {
+                case "Elevator":
+                    GameEvents.current.ElevatorTriggerRaise(theObject.id);
+                    break;
 
-            case "SpriteObject":
-                GameEvents.current.SpriteActivate(theObject.id);
-                break;
+                case "Door":
+                    Debug.Log("Made it to door case");
+                    GameEvents.current.DoorTriggerOpen(theObject.id);
+                    break;
 
-        
+                case "SpriteObject":
+                    Debug.Log("We are detecting the sprite");
+                    GameEvents.current.SpriteActivate(spObject.id);
+                    break;
+
+
+            }
+
         }
+        else {
+            GameEvents.current.SpriteActivate(spObject.id);
+        }
+
 
         
     }

@@ -76,7 +76,8 @@
     <Compile Include="Assets\Scripts\RotateSprite.cs" />
     <Compile Include="Assets\Scripts\Elevator.cs" />
     <Compile Include="Assets\Scripts\DemoPickupBehavior.cs" />
-    <Compile Include="Assets\Scripts\ElevatorController.cs" />
+    <Compile Include="Assets\Scripts\SpriteInteractionController.cs" />
+    <Compile Include="Assets\Scripts\SpriteInteractable.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\LeanTween\ReadMe.txt" />

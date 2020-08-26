@@ -247,6 +247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theObject: {fileID: 41789140}
+  spObject: {fileID: 0}
   radius: 3
 --- !u!1 &161212290
 GameObject:
@@ -453,6 +454,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &272715621 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7809379998699423100, guid: 09f102f2206b38b47937667d5e0ebc52, type: 3}
+  m_PrefabInstance: {fileID: 750592307}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &277942534
 GameObject:
   m_ObjectHideFlags: 0
@@ -1636,6 +1642,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theObject: {fileID: 161212296}
+  spObject: {fileID: 0}
   radius: 5
 --- !u!1 &1465653420
 GameObject:
@@ -1651,7 +1658,7 @@ GameObject:
   - component: {fileID: 1465653421}
   m_Layer: 8
   m_Name: Wall (2)
-  m_TagString: Ground
+  m_TagString: SpriteObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1935,6 +1942,7 @@ GameObject:
   - component: {fileID: 1991922269}
   - component: {fileID: 1991922268}
   - component: {fileID: 1991922267}
+  - component: {fileID: 1991922270}
   m_Layer: 0
   m_Name: TestProp
   m_TagString: SpriteObject
@@ -2016,11 +2024,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1991922264}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a2afd0e20bd3e144aa372be2e4db1d1e, type: 3}
+  m_Script: {fileID: 11500000, guid: 312f2bdf80e9da1469ddd7d501baef2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  raiseHeight: 0
-  id: 0
+  id: 3
+  render: {fileID: 1991922265}
+  baseSprite: {fileID: 21300000, guid: 1997576e36ac70c46b02e5e31e467eb4, type: 3}
+  transitionSprite: {fileID: 21300000, guid: 411fd5a2b17eacf4ba848369d45ddace, type: 3}
 --- !u!114 &1991922268
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2033,8 +2043,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84a30a459e497874bb9f976a5dfff6ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  theObject: {fileID: 1991922267}
-  radius: 3
+  theObject: {fileID: 0}
+  spObject: {fileID: 1991922267}
+  radius: 6
 --- !u!114 &1991922269
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2047,7 +2058,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1843768f204bcd54cad1b220f109579e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  theCamera: {fileID: 0}
+  theCamera: {fileID: 272715621}
+--- !u!65 &1991922270
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1991922264}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 10.799999, y: 19.2, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &2097041339
 GameObject:
   m_ObjectHideFlags: 0
