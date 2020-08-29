@@ -13,7 +13,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 8
+<<<<<<< HEAD
   lastUpdatedAtString: 2020-08-29T12:07:24.624-04:00
   initializedAtString: 2020-08-29T12:07:24.624-04:00
+=======
+  lastUpdatedAtString: 2020-08-24T16:56:56.179-04:00
+  initializedAtString: 2020-08-24T16:44:36.868-04:00
+  gitName: kehlert72
+  gitEmail: kaleb.ehlert@gmail.com
+  lastUpdatedAtString: 2020-08-26T19:52:52.435-04:00
+  initializedAtString: 2020-08-26T18:27:59.360-04:00
+>>>>>>> 2f82f170de45068c352a7fcf3bb33b1e7a8dbccc
   gitName: ForrestW
   gitEmail: fwalsh@bgsu.edu

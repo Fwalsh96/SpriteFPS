@@ -1,10 +1,20 @@
 ﻿using System;
 using UnityEngine;
 
-//TODO: Add custom keybindings
+//TODO: Look into sprinting bool
 
 namespace SpriteFPS.General {
     public class Player : MonoBehaviour {
+
+        #region Variables
+        KeyCode moveUpButton;
+        KeyCode moveLeftButton;
+        KeyCode moveDownButton;
+        KeyCode moveRightButton;
+        KeyCode interactButton;
+
+        private float speed;
+        private float walkingSpeed;
 
         // Player Stats
         public int maxHealth = 100;
@@ -14,22 +24,25 @@ namespace SpriteFPS.General {
         int[] ammo;
         Weapon[] weapons;
 
-        public float speed;
-        private float moveX;
-        private float moveZ;
-
         private bool sprinting;
 
         public Camera mainView;
 
         private Rigidbody playerRigidbody;
+        #endregion
+
+        #region General
 
         // Use this for initialization
         void Start() {
-            speed = 8f;
+            moveUpButton = KeyCode.W;
+            moveLeftButton = KeyCode.A;
+            moveDownButton = KeyCode.S;
+            moveRightButton = KeyCode.D;
+            interactButton = KeyCode.E;
 
-            moveX = 0;
-            moveZ = 0;
+            speed = 12f;
+            walkingSpeed = 8f;
 
             sprinting = false;
 
@@ -50,12 +63,18 @@ namespace SpriteFPS.General {
         }
 
         // Update is called once per frame
-        void Update() {
-            // Store the current horizontal input in the float move_horizontal.
-            moveX = Input.GetAxis("Horizontal");
+        private void Update() {
+            if (Input.GetKey(moveUpButton))
+                playerRigidbody.MovePosition(playerRigidbody.position + Move(0, 1));
 
-            // Store the current vertical input in the float move_vertical.
-            moveZ = Input.GetAxis("Vertical");
+            if (Input.GetKey(moveLeftButton))
+                playerRigidbody.MovePosition(playerRigidbody.position + Move(-1, 0));
+
+            if (Input.GetKey(moveDownButton))
+                playerRigidbody.MovePosition(playerRigidbody.position + Move(0, -1));
+
+            if (Input.GetKey(moveRightButton))
+                playerRigidbody.MovePosition(playerRigidbody.position + Move(1, 0));
 
             // Check to see if the player has to sprint
             if (Input.GetButton("Fire3"))
@@ -65,31 +84,33 @@ namespace SpriteFPS.General {
         }
 
         // The physic update function
-        void FixedUpdate() {
-            Move();
-
+        private void FixedUpdate() {
             Turn();
 
             if (sprinting == true)
                 Debug.Log("Player is sprinting");
         }
 
-        // The function that handles the calls to move the player using vector math
-        private void Move() {
+        #endregion
+
+        #region Movement
+
+        private Vector3 Move(float moveX, float moveZ) {
             // Moves the player based on their direction
             Vector3 movement = transform.right * moveX + transform.forward * moveZ;
+
+            Debug.Log("moveX: " + moveX.ToString());
+            Debug.Log("moveZ: " + moveZ.ToString());
 
             // Add the sprinting speed if it applies
             if (sprinting) {
                 movement = movement.normalized * speed * Time.deltaTime;
             } else {
                 // Add the speed and apply this calculation per second
-                movement = movement.normalized * speed * Time.deltaTime;
+                movement = movement.normalized * walkingSpeed * Time.deltaTime;
             }
 
-            // Apply the movement
-            playerRigidbody.MovePosition(playerRigidbody.position + movement);
-
+            return movement;
         }
 
         // Moves the player around the world
@@ -99,11 +120,14 @@ namespace SpriteFPS.General {
             transform.Rotate(0, Input.GetAxis("Mouse X") * Time.deltaTime * mouseSensivity, 0);
         }
 
+        #endregion
+
+        #region Interact
 
         private void Interact() {
             //Debug.LogError("Interact Function Ran");
 
-            if (Input.GetKeyDown(KeyCode.E))
+            if (Input.GetKeyDown(interactButton))
             {
                 //Debug.Log("Button Pressed");
 
@@ -126,6 +150,32 @@ namespace SpriteFPS.General {
                 }
             }
         }
+
+        #endregion
+
+        #region Misc
+
+        public float Speed {
+            get {
+                return 12f;
+            }
+
+            set {
+                speed = value;
+            }
+        }
+
+        public float WalkingSpeed {
+            get {
+                return 8f;
+            }
+
+            set {
+                walkingSpeed = value;
+            }
+        }
+        
+        #endregion
     }
 
 

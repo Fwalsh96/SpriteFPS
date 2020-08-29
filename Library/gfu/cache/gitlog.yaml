@@ -13,9 +13,3153 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-08-20T21:20:04.656-04:00
-  initializedAtString: 2020-08-20T18:40:27.780-04:00
+  lastUpdatedAtString: 2020-08-24T16:59:17.585-04:00
+  initializedAtString: 2020-08-24T16:59:17.585-04:00
   log:
+  - commitID: 5269bb4d78aee22cc5aa0952a997bdd17e6f2d2f
+    mergeA: 
+    mergeB: 
+    authorName: kehlert72
+    authorEmail: kaleb.ehlert@gmail.com
+    commitEmail: kaleb.ehlert@gmail.com
+    commitName: kehlert72
+    summary: Misc files
+    description: 
+    timeString: 2020-08-20T21:58:52.000-04:00
+    commitTimeString: 2020-08-20T21:58:52.000-04:00
+    changes:
+    - path: Library\ArtifactDB
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: beb20c4b71c720165e2c4054fc44298cc112a2a6
+    mergeA: 
+    mergeB: 
+    authorName: kehlert72
+    authorEmail: kaleb.ehlert@gmail.com
+    commitEmail: kaleb.ehlert@gmail.com
+    commitName: kehlert72
+    summary: Locking player's rotation
+    description: 
+    timeString: 2020-08-20T21:44:00.000-04:00
+    commitTimeString: 2020-08-20T21:44:00.000-04:00
+    changes:
+    - path: Assets\Scenes\Kaleb'sTestScene.unity
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Scenes\Kaleb'sTestScene.unity
+      projectPath: Assets\Scenes\Kaleb'sTestScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 983af8a6f4493b1f8002a149b27ae9a161b30f4d
+    mergeA: 
+    mergeB: 
+    authorName: kehlert72
+    authorEmail: kaleb.ehlert@gmail.com
+    commitEmail: kaleb.ehlert@gmail.com
+    commitName: kehlert72
+    summary: Added GitHub extension to Unity
+    description: 
+    timeString: 2020-08-20T21:27:07.000-04:00
+    commitTimeString: 2020-08-20T21:27:07.000-04:00
+    changes:
+    - path: .vs\SpriteFPS\v16\.suo
+      fullPath: D:\Unity_Game_Development\SpriteFPS\.vs\SpriteFPS\v16\.suo
+      projectPath: .vs\SpriteFPS\v16\.suo
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assembly-CSharp-Editor.csproj
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assembly-CSharp-Editor.csproj
+      projectPath: Assembly-CSharp-Editor.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\APIUpdater\project-dependencies.graph
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\00\00bb9c0db26a7c71ae0e7dbdd7dbce00
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\00\00bb9c0db26a7c71ae0e7dbdd7dbce00
+      projectPath: Library\Artifacts\00\00bb9c0db26a7c71ae0e7dbdd7dbce00
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\00\00c3fc4ae9f6bb7620b9677d197b666b
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\00\00c3fc4ae9f6bb7620b9677d197b666b
+      projectPath: Library\Artifacts\00\00c3fc4ae9f6bb7620b9677d197b666b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\02\024e2e42b5c9648e3c70ce41e12f1fff
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\02\024e2e42b5c9648e3c70ce41e12f1fff
+      projectPath: Library\Artifacts\02\024e2e42b5c9648e3c70ce41e12f1fff
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\03\03748e14012d6a31cb12e6ef9533e9e4
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\03\03748e14012d6a31cb12e6ef9533e9e4
+      projectPath: Library\Artifacts\03\03748e14012d6a31cb12e6ef9533e9e4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\04\047d9975cae17be357ee92d2918e084c
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\04\047d9975cae17be357ee92d2918e084c
+      projectPath: Library\Artifacts\04\047d9975cae17be357ee92d2918e084c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\08\088216ccafa2664ed9f4ea4f1a140afd
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\08\088216ccafa2664ed9f4ea4f1a140afd
+      projectPath: Library\Artifacts\08\088216ccafa2664ed9f4ea4f1a140afd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\08\08b32d1eceab7a81467f80f7c42b27a4
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\08\08b32d1eceab7a81467f80f7c42b27a4
+      projectPath: Library\Artifacts\08\08b32d1eceab7a81467f80f7c42b27a4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\0a\0a2085f529c02859dd2f5dbe1c6535a3
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\0a\0a2085f529c02859dd2f5dbe1c6535a3
+      projectPath: Library\Artifacts\0a\0a2085f529c02859dd2f5dbe1c6535a3
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\0b\0b08b230665c3a4c1b3d90f60547d416
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\0b\0b08b230665c3a4c1b3d90f60547d416
+      projectPath: Library\Artifacts\0b\0b08b230665c3a4c1b3d90f60547d416
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\0b\0b876c7c0e29e4a1a4b90e5f47e5ae96
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\0b\0b876c7c0e29e4a1a4b90e5f47e5ae96
+      projectPath: Library\Artifacts\0b\0b876c7c0e29e4a1a4b90e5f47e5ae96
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\0b\0bdba31377a76abc923c58f40b0b6338
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\0b\0bdba31377a76abc923c58f40b0b6338
+      projectPath: Library\Artifacts\0b\0bdba31377a76abc923c58f40b0b6338
+      originalPath: Library\Artifacts\01\0115a037c47a0922705b82bb3bbe5346
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\0f\0f78466a9460838016c3572dda31979f
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\0f\0f78466a9460838016c3572dda31979f
+      projectPath: Library\Artifacts\0f\0f78466a9460838016c3572dda31979f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\10\10cf4c6a4f44ac2ab9584ef6fb27f18e
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\10\10cf4c6a4f44ac2ab9584ef6fb27f18e
+      projectPath: Library\Artifacts\10\10cf4c6a4f44ac2ab9584ef6fb27f18e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\15\15453271a59a87a9e8eb3e21947f090f
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\15\15453271a59a87a9e8eb3e21947f090f
+      projectPath: Library\Artifacts\15\15453271a59a87a9e8eb3e21947f090f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\19\19608d602b773ced571737662e8e547d
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\19\19608d602b773ced571737662e8e547d
+      projectPath: Library\Artifacts\19\19608d602b773ced571737662e8e547d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\1a\1aa738c67346b7ab743b0738c0542763
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\1a\1aa738c67346b7ab743b0738c0542763
+      projectPath: Library\Artifacts\1a\1aa738c67346b7ab743b0738c0542763
+      originalPath: Library\Artifacts\bf\bfd912d638d4e3ffe94333940abcfbab
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\1b\1b96dbcca9e59ca699a6ea83d642a678
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\1b\1b96dbcca9e59ca699a6ea83d642a678
+      projectPath: Library\Artifacts\1b\1b96dbcca9e59ca699a6ea83d642a678
+      originalPath: Library\Artifacts\37\373ef26171efa2ed37deebb8a0bba284
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\1d\1dd94cd2fa2df7a1283dfede394067cd
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\1d\1dd94cd2fa2df7a1283dfede394067cd
+      projectPath: Library\Artifacts\1d\1dd94cd2fa2df7a1283dfede394067cd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\1e\1e512521c178e05b2b30aed850d00af2
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\1e\1e512521c178e05b2b30aed850d00af2
+      projectPath: Library\Artifacts\1e\1e512521c178e05b2b30aed850d00af2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\1e\1eae5dccacce28291e383aff9653e162
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\1e\1eae5dccacce28291e383aff9653e162
+      projectPath: Library\Artifacts\1e\1eae5dccacce28291e383aff9653e162
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\20\20dcc2aef5e76da25bff702e9c80bb4f
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\20\20dcc2aef5e76da25bff702e9c80bb4f
+      projectPath: Library\Artifacts\20\20dcc2aef5e76da25bff702e9c80bb4f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\22\227ccaab2fac7102f6ddc7c0a423cfc7
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\22\227ccaab2fac7102f6ddc7c0a423cfc7
+      projectPath: Library\Artifacts\22\227ccaab2fac7102f6ddc7c0a423cfc7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\26\262a3b3492252d255c6931eb510e32f3
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\26\262a3b3492252d255c6931eb510e32f3
+      projectPath: Library\Artifacts\26\262a3b3492252d255c6931eb510e32f3
+      originalPath: Library\Artifacts\4b\4b8e7c36a6c9ca41fc82efc30004e420
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\26\26f15cb319b6ea2698d6b38fbe09de07
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\26\26f15cb319b6ea2698d6b38fbe09de07
+      projectPath: Library\Artifacts\26\26f15cb319b6ea2698d6b38fbe09de07
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\28\28b5a442efd2c51bd3d033285cd5e117
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\28\28b5a442efd2c51bd3d033285cd5e117
+      projectPath: Library\Artifacts\28\28b5a442efd2c51bd3d033285cd5e117
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\2b\2b02af361fb356d3c9738412879382fa
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\2b\2b02af361fb356d3c9738412879382fa
+      projectPath: Library\Artifacts\2b\2b02af361fb356d3c9738412879382fa
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\2e\2ebc43f751413b137bd7ef659cc5f003
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\2e\2ebc43f751413b137bd7ef659cc5f003
+      projectPath: Library\Artifacts\2e\2ebc43f751413b137bd7ef659cc5f003
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\30\309ffdee8122ebb3eed14793dea88b3e
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\30\309ffdee8122ebb3eed14793dea88b3e
+      projectPath: Library\Artifacts\30\309ffdee8122ebb3eed14793dea88b3e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\31\31faa24a4a85fe0e4e958c05ffbabe34
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\31\31faa24a4a85fe0e4e958c05ffbabe34
+      projectPath: Library\Artifacts\31\31faa24a4a85fe0e4e958c05ffbabe34
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\33\337a6c1e137a1d37f3c5da64e78fe029
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\33\337a6c1e137a1d37f3c5da64e78fe029
+      projectPath: Library\Artifacts\33\337a6c1e137a1d37f3c5da64e78fe029
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\35\352dd53863044fbe3ee745b545e817eb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\35\352dd53863044fbe3ee745b545e817eb
+      projectPath: Library\Artifacts\35\352dd53863044fbe3ee745b545e817eb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\35\35d545ddf9afc6a88ccb5b85f7aaff91
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\35\35d545ddf9afc6a88ccb5b85f7aaff91
+      projectPath: Library\Artifacts\35\35d545ddf9afc6a88ccb5b85f7aaff91
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\39\3925ddadfc8ca5d44ff8dfa4d1e66750
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\39\3925ddadfc8ca5d44ff8dfa4d1e66750
+      projectPath: Library\Artifacts\39\3925ddadfc8ca5d44ff8dfa4d1e66750
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\3c\3c7d105d96509cae8e7aac35065aebd3
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\3c\3c7d105d96509cae8e7aac35065aebd3
+      projectPath: Library\Artifacts\3c\3c7d105d96509cae8e7aac35065aebd3
+      originalPath: Library\Artifacts\01\01294dad251d832177988085df611d48
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\3d\3d800ce3f4a1e27d22bd8a6a66f55fd3
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\3d\3d800ce3f4a1e27d22bd8a6a66f55fd3
+      projectPath: Library\Artifacts\3d\3d800ce3f4a1e27d22bd8a6a66f55fd3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\42\424cf74eb8aa60905c066639a20c223c
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\42\424cf74eb8aa60905c066639a20c223c
+      projectPath: Library\Artifacts\42\424cf74eb8aa60905c066639a20c223c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\42\42bba7dc28c4ac2f21c68f5219ddcf3a
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\42\42bba7dc28c4ac2f21c68f5219ddcf3a
+      projectPath: Library\Artifacts\42\42bba7dc28c4ac2f21c68f5219ddcf3a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\43\4386ee2b675e7d176b1c3e0a60c3e240
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\43\4386ee2b675e7d176b1c3e0a60c3e240
+      projectPath: Library\Artifacts\43\4386ee2b675e7d176b1c3e0a60c3e240
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\43\43eadaf12c241ce13850fea7ad0e3e49
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\43\43eadaf12c241ce13850fea7ad0e3e49
+      projectPath: Library\Artifacts\43\43eadaf12c241ce13850fea7ad0e3e49
+      originalPath: Library\Artifacts\a1\a1ecbc3f91b80c56c1b66cf55059c985
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\44\44ac36909699e28e8619c031e1f31440
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\44\44ac36909699e28e8619c031e1f31440
+      projectPath: Library\Artifacts\44\44ac36909699e28e8619c031e1f31440
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\47\47a1a2f81a600b05e7d00c8441e688fd
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\47\47a1a2f81a600b05e7d00c8441e688fd
+      projectPath: Library\Artifacts\47\47a1a2f81a600b05e7d00c8441e688fd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\4a\4a34b9e781532af414a66e1620cb18a6
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\4a\4a34b9e781532af414a66e1620cb18a6
+      projectPath: Library\Artifacts\4a\4a34b9e781532af414a66e1620cb18a6
+      originalPath: Library\Artifacts\c5\c504a0aeb56fa55e2037c529ef60e749
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\4a\4a61304994af9904f0a95415607d2706
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\4a\4a61304994af9904f0a95415607d2706
+      projectPath: Library\Artifacts\4a\4a61304994af9904f0a95415607d2706
+      originalPath: Library\Artifacts\73\73a5657f81a68af702ebedb2aa08f46a
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\4c\4c01d9638d4785adb572e2194af7dd89
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\4c\4c01d9638d4785adb572e2194af7dd89
+      projectPath: Library\Artifacts\4c\4c01d9638d4785adb572e2194af7dd89
+      originalPath: Library\Artifacts\c3\c35aacc66c0723c982fccf46920531cd
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\4e\4eca66f3a7e12389902bdceff9c25569
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\4e\4eca66f3a7e12389902bdceff9c25569
+      projectPath: Library\Artifacts\4e\4eca66f3a7e12389902bdceff9c25569
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\54\54ec80aa7819ab52165cd602ea17938b
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\54\54ec80aa7819ab52165cd602ea17938b
+      projectPath: Library\Artifacts\54\54ec80aa7819ab52165cd602ea17938b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\56\562bd177a994e6be67cd6a10d3328921
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\56\562bd177a994e6be67cd6a10d3328921
+      projectPath: Library\Artifacts\56\562bd177a994e6be67cd6a10d3328921
+      originalPath: Library\Artifacts\35\353819be2b9cfe889a6590d5690a8955
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\57\57c2c5663e608cc662dda7b7ba50a1c7
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\57\57c2c5663e608cc662dda7b7ba50a1c7
+      projectPath: Library\Artifacts\57\57c2c5663e608cc662dda7b7ba50a1c7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\59\595487b8f3a5b819fa95895a8997fb34
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\59\595487b8f3a5b819fa95895a8997fb34
+      projectPath: Library\Artifacts\59\595487b8f3a5b819fa95895a8997fb34
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\5a\5a43a6587c4f2e4c0aad493b53cd2465
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\5a\5a43a6587c4f2e4c0aad493b53cd2465
+      projectPath: Library\Artifacts\5a\5a43a6587c4f2e4c0aad493b53cd2465
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\5c\5c8038a69254cb6844a8a019b3ff6774
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\5c\5c8038a69254cb6844a8a019b3ff6774
+      projectPath: Library\Artifacts\5c\5c8038a69254cb6844a8a019b3ff6774
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\5d\5d16bff0bee5227d9c3ab619801435e2
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\5d\5d16bff0bee5227d9c3ab619801435e2
+      projectPath: Library\Artifacts\5d\5d16bff0bee5227d9c3ab619801435e2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\5d\5d623df1bc446371ccddb1e84f4b261c
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\5d\5d623df1bc446371ccddb1e84f4b261c
+      projectPath: Library\Artifacts\5d\5d623df1bc446371ccddb1e84f4b261c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\5e\5e0acdf923156bab3926f530e5354ac5
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\5e\5e0acdf923156bab3926f530e5354ac5
+      projectPath: Library\Artifacts\5e\5e0acdf923156bab3926f530e5354ac5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\60\607680a447b27e9a6ca6572ffc5a1e0f
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\60\607680a447b27e9a6ca6572ffc5a1e0f
+      projectPath: Library\Artifacts\60\607680a447b27e9a6ca6572ffc5a1e0f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\63\63917c2bf1c65c536af04812eebb0cc9
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\63\63917c2bf1c65c536af04812eebb0cc9
+      projectPath: Library\Artifacts\63\63917c2bf1c65c536af04812eebb0cc9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\65\6562a737a9bbacd9a7834fd94303d89d
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\65\6562a737a9bbacd9a7834fd94303d89d
+      projectPath: Library\Artifacts\65\6562a737a9bbacd9a7834fd94303d89d
+      originalPath: Library\Artifacts\04\04f8b5a00b6e951bfa6d5a3f5ff6b7ab
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\67\6742639bd393ba86eb0c8076f924acb5
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\67\6742639bd393ba86eb0c8076f924acb5
+      projectPath: Library\Artifacts\67\6742639bd393ba86eb0c8076f924acb5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\68\681d850c3a098d4b67eb8e9cf9f11e8d
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\68\681d850c3a098d4b67eb8e9cf9f11e8d
+      projectPath: Library\Artifacts\68\681d850c3a098d4b67eb8e9cf9f11e8d
+      originalPath: Library\Artifacts\85\85001b379a02b6a4adcfcb8e632a5ece
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\68\68d1b64acde411286f785edd58ac1276
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\68\68d1b64acde411286f785edd58ac1276
+      projectPath: Library\Artifacts\68\68d1b64acde411286f785edd58ac1276
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\6d\6d176e37fb40773213f3666485cf255e
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\6d\6d176e37fb40773213f3666485cf255e
+      projectPath: Library\Artifacts\6d\6d176e37fb40773213f3666485cf255e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\71\71193f18b75bfcf2d20f877f858eeaf5
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\71\71193f18b75bfcf2d20f877f858eeaf5
+      projectPath: Library\Artifacts\71\71193f18b75bfcf2d20f877f858eeaf5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\79\79107776a2aa2e3b8fadd48f3c364390
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\79\79107776a2aa2e3b8fadd48f3c364390
+      projectPath: Library\Artifacts\79\79107776a2aa2e3b8fadd48f3c364390
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\7b\7b829b6d9b1c118e929ca40b1d9cf512
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\7b\7b829b6d9b1c118e929ca40b1d9cf512
+      projectPath: Library\Artifacts\7b\7b829b6d9b1c118e929ca40b1d9cf512
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\7c\7cc3a1f9302025702cf576564ad24ee0
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\7c\7cc3a1f9302025702cf576564ad24ee0
+      projectPath: Library\Artifacts\7c\7cc3a1f9302025702cf576564ad24ee0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\7d\7d8b968b0b9da21bb68e109ff4442631
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\7d\7d8b968b0b9da21bb68e109ff4442631
+      projectPath: Library\Artifacts\7d\7d8b968b0b9da21bb68e109ff4442631
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\7e\7e9c092b0561811918620ff56194995f
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\7e\7e9c092b0561811918620ff56194995f
+      projectPath: Library\Artifacts\7e\7e9c092b0561811918620ff56194995f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\80\806a20a15f770fa8b607f18bcabc03cb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\80\806a20a15f770fa8b607f18bcabc03cb
+      projectPath: Library\Artifacts\80\806a20a15f770fa8b607f18bcabc03cb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\85\8562a90104cac4f050f63c138a1279ee
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\85\8562a90104cac4f050f63c138a1279ee
+      projectPath: Library\Artifacts\85\8562a90104cac4f050f63c138a1279ee
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\86\8692a0e88c5bb11de940bc5ad487822d
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\86\8692a0e88c5bb11de940bc5ad487822d
+      projectPath: Library\Artifacts\86\8692a0e88c5bb11de940bc5ad487822d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\87\878375339892e75c3bd291ef7b186e1f
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\87\878375339892e75c3bd291ef7b186e1f
+      projectPath: Library\Artifacts\87\878375339892e75c3bd291ef7b186e1f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\89\89384b7bfe02238a7bb3a01a5b821d04
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\89\89384b7bfe02238a7bb3a01a5b821d04
+      projectPath: Library\Artifacts\89\89384b7bfe02238a7bb3a01a5b821d04
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\8b\8b763a68cd9c31f2500f36e7b289906a
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\8b\8b763a68cd9c31f2500f36e7b289906a
+      projectPath: Library\Artifacts\8b\8b763a68cd9c31f2500f36e7b289906a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\8b\8b85c66b8db01f675972e5696b7b81be
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\8b\8b85c66b8db01f675972e5696b7b81be
+      projectPath: Library\Artifacts\8b\8b85c66b8db01f675972e5696b7b81be
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\8c\8c7922b463ecb50cc4273c33869f0d42
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\8c\8c7922b463ecb50cc4273c33869f0d42
+      projectPath: Library\Artifacts\8c\8c7922b463ecb50cc4273c33869f0d42
+      originalPath: Library\Artifacts\cb\cbb7d5d9bf3c3fcef51b330527244c28
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\8c\8cced741b0f2790dbeed5ee2cd20f288
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\8c\8cced741b0f2790dbeed5ee2cd20f288
+      projectPath: Library\Artifacts\8c\8cced741b0f2790dbeed5ee2cd20f288
+      originalPath: Library\Artifacts\1e\1e345f7ecf6ad044de08c508f3048732
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\8e\8eb50c12c14a2963af2492bbb6c457b1
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\8e\8eb50c12c14a2963af2492bbb6c457b1
+      projectPath: Library\Artifacts\8e\8eb50c12c14a2963af2492bbb6c457b1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\8f\8ff8a746155bc62ab380a1298472a25f
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\8f\8ff8a746155bc62ab380a1298472a25f
+      projectPath: Library\Artifacts\8f\8ff8a746155bc62ab380a1298472a25f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\90\90749caff5744c3c14f0c16ac26792dd
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\90\90749caff5744c3c14f0c16ac26792dd
+      projectPath: Library\Artifacts\90\90749caff5744c3c14f0c16ac26792dd
+      originalPath: Library\Artifacts\d1\d136ab1be5803a94c62a83f547a2c07b
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\93\938b8b2b31d2a5e30f460da1a5bc1ba9
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\93\938b8b2b31d2a5e30f460da1a5bc1ba9
+      projectPath: Library\Artifacts\93\938b8b2b31d2a5e30f460da1a5bc1ba9
+      originalPath: Library\Artifacts\4d\4d69456e3e793bd8011010768e245666
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\93\93fc3944a55ce889d1f72ce6819661a9
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\93\93fc3944a55ce889d1f72ce6819661a9
+      projectPath: Library\Artifacts\93\93fc3944a55ce889d1f72ce6819661a9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\95\959cb6162af4b3182c63c65fa669a311
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\95\959cb6162af4b3182c63c65fa669a311
+      projectPath: Library\Artifacts\95\959cb6162af4b3182c63c65fa669a311
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\95\95bde66fbbd2e159533b961525177204
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\95\95bde66fbbd2e159533b961525177204
+      projectPath: Library\Artifacts\95\95bde66fbbd2e159533b961525177204
+      originalPath: Library\Artifacts\35\35e91d7a6d9dafce70277de13d8cb187
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\99\99cfeadb4ad3c7621433803289974288
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\99\99cfeadb4ad3c7621433803289974288
+      projectPath: Library\Artifacts\99\99cfeadb4ad3c7621433803289974288
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\9b\9b62914438e50494667126b7b32a0f98
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\9b\9b62914438e50494667126b7b32a0f98
+      projectPath: Library\Artifacts\9b\9b62914438e50494667126b7b32a0f98
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\9d\9dc6bd4d91e245a921c703313576fe39
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\9d\9dc6bd4d91e245a921c703313576fe39
+      projectPath: Library\Artifacts\9d\9dc6bd4d91e245a921c703313576fe39
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a0\a0d0e47da160bd3e6ed4b895c2ad8c2c
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\a0\a0d0e47da160bd3e6ed4b895c2ad8c2c
+      projectPath: Library\Artifacts\a0\a0d0e47da160bd3e6ed4b895c2ad8c2c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a1\a18604410737cd08da9ce5763ffe758b
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\a1\a18604410737cd08da9ce5763ffe758b
+      projectPath: Library\Artifacts\a1\a18604410737cd08da9ce5763ffe758b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a2\a291bb705cfa8c557734ec9758e8e19a
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\a2\a291bb705cfa8c557734ec9758e8e19a
+      projectPath: Library\Artifacts\a2\a291bb705cfa8c557734ec9758e8e19a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a4\a40a65b3f2c5cedf333985fcf1f73fed
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\a4\a40a65b3f2c5cedf333985fcf1f73fed
+      projectPath: Library\Artifacts\a4\a40a65b3f2c5cedf333985fcf1f73fed
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\a6\a65a72c5c662d2506d38e477a8da291b
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\a6\a65a72c5c662d2506d38e477a8da291b
+      projectPath: Library\Artifacts\a6\a65a72c5c662d2506d38e477a8da291b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\aa\aadb1f05b549f2f312ab6fbc7413c0d5
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\aa\aadb1f05b549f2f312ab6fbc7413c0d5
+      projectPath: Library\Artifacts\aa\aadb1f05b549f2f312ab6fbc7413c0d5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\af\af2c842ed1fa615d5f060fae26c15001
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\af\af2c842ed1fa615d5f060fae26c15001
+      projectPath: Library\Artifacts\af\af2c842ed1fa615d5f060fae26c15001
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b0\b06511eb382d8867a879e85763bbdcca
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\b0\b06511eb382d8867a879e85763bbdcca
+      projectPath: Library\Artifacts\b0\b06511eb382d8867a879e85763bbdcca
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b5\b5a3837996ecb62973423789f3cb26ab
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\b5\b5a3837996ecb62973423789f3cb26ab
+      projectPath: Library\Artifacts\b5\b5a3837996ecb62973423789f3cb26ab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b6\b612ced9e20872729337e9f4210894b1
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\b6\b612ced9e20872729337e9f4210894b1
+      projectPath: Library\Artifacts\b6\b612ced9e20872729337e9f4210894b1
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\b8\b80876516dacd60723f6b2a0dc47cfae
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\b8\b80876516dacd60723f6b2a0dc47cfae
+      projectPath: Library\Artifacts\b8\b80876516dacd60723f6b2a0dc47cfae
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\b9\b9aa229e0579b982af9adf4d96269fd6
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\b9\b9aa229e0579b982af9adf4d96269fd6
+      projectPath: Library\Artifacts\b9\b9aa229e0579b982af9adf4d96269fd6
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\bc\bc74948efe516b7c2657fd6df01021b9
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\bc\bc74948efe516b7c2657fd6df01021b9
+      projectPath: Library\Artifacts\bc\bc74948efe516b7c2657fd6df01021b9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\be\beb1aa71dc6717a0f5dd7d5244a0cddf
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\be\beb1aa71dc6717a0f5dd7d5244a0cddf
+      projectPath: Library\Artifacts\be\beb1aa71dc6717a0f5dd7d5244a0cddf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\bf\bf229a87182ef7af62fb1240293d072c
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\bf\bf229a87182ef7af62fb1240293d072c
+      projectPath: Library\Artifacts\bf\bf229a87182ef7af62fb1240293d072c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c3\c3a567af52901b8d950869b10c2ba7c6
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\c3\c3a567af52901b8d950869b10c2ba7c6
+      projectPath: Library\Artifacts\c3\c3a567af52901b8d950869b10c2ba7c6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c5\c5564148e4dc59f6525d120c987d16d9
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\c5\c5564148e4dc59f6525d120c987d16d9
+      projectPath: Library\Artifacts\c5\c5564148e4dc59f6525d120c987d16d9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c6\c6ad3686f13e28e567a72630ff4e0037
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\c6\c6ad3686f13e28e567a72630ff4e0037
+      projectPath: Library\Artifacts\c6\c6ad3686f13e28e567a72630ff4e0037
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c8\c848d1dad265957459add91c3ab3d03f
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\c8\c848d1dad265957459add91c3ab3d03f
+      projectPath: Library\Artifacts\c8\c848d1dad265957459add91c3ab3d03f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c8\c858ae14c901b5fa660d3064247bd851
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\c8\c858ae14c901b5fa660d3064247bd851
+      projectPath: Library\Artifacts\c8\c858ae14c901b5fa660d3064247bd851
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\c9\c946a5ecb01995ad071e80f32b41c6f4
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\c9\c946a5ecb01995ad071e80f32b41c6f4
+      projectPath: Library\Artifacts\c9\c946a5ecb01995ad071e80f32b41c6f4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\cc\cc154a660722bc988c5962bfe4a80679
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\cc\cc154a660722bc988c5962bfe4a80679
+      projectPath: Library\Artifacts\cc\cc154a660722bc988c5962bfe4a80679
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\cc\cc321ec91d8899d1f3741435d9c9982d
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\cc\cc321ec91d8899d1f3741435d9c9982d
+      projectPath: Library\Artifacts\cc\cc321ec91d8899d1f3741435d9c9982d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\cf\cf8e0676983ed03d7539bfde9772256f
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\cf\cf8e0676983ed03d7539bfde9772256f
+      projectPath: Library\Artifacts\cf\cf8e0676983ed03d7539bfde9772256f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d3\d3d1d9265083980c4eba31bb813036ab
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\d3\d3d1d9265083980c4eba31bb813036ab
+      projectPath: Library\Artifacts\d3\d3d1d9265083980c4eba31bb813036ab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d3\d3f55a4b10b20a2b7059bdaa79c8e650
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\d3\d3f55a4b10b20a2b7059bdaa79c8e650
+      projectPath: Library\Artifacts\d3\d3f55a4b10b20a2b7059bdaa79c8e650
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d4\d46190c8bc0651c3cd98570706e8ed86
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\d4\d46190c8bc0651c3cd98570706e8ed86
+      projectPath: Library\Artifacts\d4\d46190c8bc0651c3cd98570706e8ed86
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d4\d4eabbd22ea8d47c863c4e3a172bf2df
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\d4\d4eabbd22ea8d47c863c4e3a172bf2df
+      projectPath: Library\Artifacts\d4\d4eabbd22ea8d47c863c4e3a172bf2df
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\d5\d53e6a691249349739e99e29402cabbf
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\d5\d53e6a691249349739e99e29402cabbf
+      projectPath: Library\Artifacts\d5\d53e6a691249349739e99e29402cabbf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\da\da99880655dbbec908df5864ebcd7245
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\da\da99880655dbbec908df5864ebcd7245
+      projectPath: Library\Artifacts\da\da99880655dbbec908df5864ebcd7245
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\db\db35c03d69b367ae662ecb6b7fb37b43
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\db\db35c03d69b367ae662ecb6b7fb37b43
+      projectPath: Library\Artifacts\db\db35c03d69b367ae662ecb6b7fb37b43
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\dc\dc082ba7423069c049502916a6590100
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\dc\dc082ba7423069c049502916a6590100
+      projectPath: Library\Artifacts\dc\dc082ba7423069c049502916a6590100
+      originalPath: Library\Artifacts\cf\cfb88b2aab57862f14e4a5f2bf499aeb
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\de\deb15286658d8cb8157719decc0da9db
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\de\deb15286658d8cb8157719decc0da9db
+      projectPath: Library\Artifacts\de\deb15286658d8cb8157719decc0da9db
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\de\defd6fe341b46bb47907bdf78b82f7a5
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\de\defd6fe341b46bb47907bdf78b82f7a5
+      projectPath: Library\Artifacts\de\defd6fe341b46bb47907bdf78b82f7a5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\df\df7f79a9ff2dd4947c5398aaf8e0aa2b
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\df\df7f79a9ff2dd4947c5398aaf8e0aa2b
+      projectPath: Library\Artifacts\df\df7f79a9ff2dd4947c5398aaf8e0aa2b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\df\dfd039ebfd41d6aef49bd5a03f9d080a
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\df\dfd039ebfd41d6aef49bd5a03f9d080a
+      projectPath: Library\Artifacts\df\dfd039ebfd41d6aef49bd5a03f9d080a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e0\e001c51733ee0e0872db7c7169769188
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\e0\e001c51733ee0e0872db7c7169769188
+      projectPath: Library\Artifacts\e0\e001c51733ee0e0872db7c7169769188
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e0\e0a0ce2a80dc702beeb9939cc325358a
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\e0\e0a0ce2a80dc702beeb9939cc325358a
+      projectPath: Library\Artifacts\e0\e0a0ce2a80dc702beeb9939cc325358a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e0\e0f3bc8749e795a27ce85744cea7aa1b
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\e0\e0f3bc8749e795a27ce85744cea7aa1b
+      projectPath: Library\Artifacts\e0\e0f3bc8749e795a27ce85744cea7aa1b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e3\e31d0cec8d7258bacb58bb80a47c50d3
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\e3\e31d0cec8d7258bacb58bb80a47c50d3
+      projectPath: Library\Artifacts\e3\e31d0cec8d7258bacb58bb80a47c50d3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e6\e6a0fec654b810b06d78b7c42cf1e973
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\e6\e6a0fec654b810b06d78b7c42cf1e973
+      projectPath: Library\Artifacts\e6\e6a0fec654b810b06d78b7c42cf1e973
+      originalPath: Library\Artifacts\e3\e3ae701965cc85b30997362504368514
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\e6\e6d6c68da360896841f19f4284162778
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\e6\e6d6c68da360896841f19f4284162778
+      projectPath: Library\Artifacts\e6\e6d6c68da360896841f19f4284162778
+      originalPath: Library\Artifacts\c0\c00f6f5fd71241f2cbed4bfa246e08dc
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\e8\e8190a640ccf5364b5575fa360372328
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\e8\e8190a640ccf5364b5575fa360372328
+      projectPath: Library\Artifacts\e8\e8190a640ccf5364b5575fa360372328
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\e8\e86cca3d34260408ecc4835deb84510a
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\e8\e86cca3d34260408ecc4835deb84510a
+      projectPath: Library\Artifacts\e8\e86cca3d34260408ecc4835deb84510a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\e9\e998f2c019e84f67d0685d0f34c34ee5
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\e9\e998f2c019e84f67d0685d0f34c34ee5
+      projectPath: Library\Artifacts\e9\e998f2c019e84f67d0685d0f34c34ee5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\eb\eb32a15bb87a212ef104d3b28547306f
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\eb\eb32a15bb87a212ef104d3b28547306f
+      projectPath: Library\Artifacts\eb\eb32a15bb87a212ef104d3b28547306f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\eb\eb410c431c2e5cb94b259e6c00058e88
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\eb\eb410c431c2e5cb94b259e6c00058e88
+      projectPath: Library\Artifacts\eb\eb410c431c2e5cb94b259e6c00058e88
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ed\ed2c7fa9a97699d66a19911d416df199
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\ed\ed2c7fa9a97699d66a19911d416df199
+      projectPath: Library\Artifacts\ed\ed2c7fa9a97699d66a19911d416df199
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ed\ed42a04e562e099eeff93835cd6c9adc
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\ed\ed42a04e562e099eeff93835cd6c9adc
+      projectPath: Library\Artifacts\ed\ed42a04e562e099eeff93835cd6c9adc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ee\ee3bdbbc2f6a5d345e787c1f40851445
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\ee\ee3bdbbc2f6a5d345e787c1f40851445
+      projectPath: Library\Artifacts\ee\ee3bdbbc2f6a5d345e787c1f40851445
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\ef\ef1e14199eb2b4e5a1424f49edeff2f2
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\ef\ef1e14199eb2b4e5a1424f49edeff2f2
+      projectPath: Library\Artifacts\ef\ef1e14199eb2b4e5a1424f49edeff2f2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\ef\ef62bd80c16f448fdf74563d10f73165
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\ef\ef62bd80c16f448fdf74563d10f73165
+      projectPath: Library\Artifacts\ef\ef62bd80c16f448fdf74563d10f73165
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f0\f036c3441f42f3a435ae653b047bdfc5
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\f0\f036c3441f42f3a435ae653b047bdfc5
+      projectPath: Library\Artifacts\f0\f036c3441f42f3a435ae653b047bdfc5
+      originalPath: Library\Artifacts\12\129bb70f7216b3beb891c6c276daae7f
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\f0\f0d9ab2b2764b22589d4528a1f142e9a
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\f0\f0d9ab2b2764b22589d4528a1f142e9a
+      projectPath: Library\Artifacts\f0\f0d9ab2b2764b22589d4528a1f142e9a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f1\f1756256ed68538c3e0b169b488d49bc
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\f1\f1756256ed68538c3e0b169b488d49bc
+      projectPath: Library\Artifacts\f1\f1756256ed68538c3e0b169b488d49bc
+      originalPath: Library\Artifacts\24\242a26a8c0e14e49ece880e0d46ceec5
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\f2\f26b0ca095be25f0509360fc55a8fd4b
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\f2\f26b0ca095be25f0509360fc55a8fd4b
+      projectPath: Library\Artifacts\f2\f26b0ca095be25f0509360fc55a8fd4b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\Artifacts\f2\f2c19dc04740f3b3310e02abaa30fd5a
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\f2\f2c19dc04740f3b3310e02abaa30fd5a
+      projectPath: Library\Artifacts\f2\f2c19dc04740f3b3310e02abaa30fd5a
+      originalPath: Library\Artifacts\a5\a53f98c7dd6c3550951d89cd19f4bc06
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\f3\f3bf0ac7bb76117955b81f93c0e5672c
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\f3\f3bf0ac7bb76117955b81f93c0e5672c
+      projectPath: Library\Artifacts\f3\f3bf0ac7bb76117955b81f93c0e5672c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\f5\f56e03e50e3ee85c211f07ec4a99d203
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\f5\f56e03e50e3ee85c211f07ec4a99d203
+      projectPath: Library\Artifacts\f5\f56e03e50e3ee85c211f07ec4a99d203
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\fa\fab2e0da1c156c22f3b11b7cf91e402f
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\fa\fab2e0da1c156c22f3b11b7cf91e402f
+      projectPath: Library\Artifacts\fa\fab2e0da1c156c22f3b11b7cf91e402f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\Artifacts\fd\fd6180140479a82cb057c8ac65051ff8
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\fd\fd6180140479a82cb057c8ac65051ff8
+      projectPath: Library\Artifacts\fd\fd6180140479a82cb057c8ac65051ff8
+      originalPath: Library\Artifacts\5c\5c1b7c79516a6bacb061c0cf09a0daf3
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Library\Artifacts\fd\fdbedb4faed247e78db2e20a06104927
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Artifacts\fd\fdbedb4faed247e78db2e20a06104927
+      projectPath: Library\Artifacts\fd\fdbedb4faed247e78db2e20a06104927
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\CHANGELOG.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\CHANGELOG.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\CHANGELOG.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\CHANGELOG.md.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\CHANGELOG.md.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\CHANGELOG.md.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_Preferences.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_Preferences.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_Preferences.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_api.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_api.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_api.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_asset-search.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_asset-search.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_asset-search.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_asset-store-search.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_asset-store-search.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_asset-store-search.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_calculator.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_calculator.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_calculator.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_command-query.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_command-query.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_command-query.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_filters-pane-asset.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_filters-pane-asset.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_filters-pane-asset.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_filters-pane-main.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_filters-pane-main.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_filters-pane-main.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_filters-pane-online.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_filters-pane-online.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_filters-pane-online.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_filters-pane-scene.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_filters-pane-scene.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_filters-pane-scene.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_help-search.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_help-search.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_help-search.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_menu-search.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_menu-search.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_menu-search.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_online-search.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_online-search.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_online-search.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_package-search.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_package-search.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_package-search.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-basic.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-basic.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-basic.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-combined.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-combined.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-combined.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-id.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-id.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-id.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-name.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-name.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-name.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-tag.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-tag.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-tag.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-type.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-type.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_resources-search-type.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_scene-search.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_scene-search.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_scene-search.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_settings-search.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_settings-search.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_settings-search.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_status-bar-help.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_status-bar-help.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_status-bar-help.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_window-blank.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_window-blank.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_window-blank.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_window.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_window.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\Images\QS_window.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\TableOfContents.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\TableOfContents.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\TableOfContents.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api-action-handler.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api-action-handler.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api-action-handler.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api-register-provider.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api-register-provider.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api-register-provider.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api-search-provider-class.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api-search-provider-class.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api-search-provider-class.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api-searching.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api-searching.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api-searching.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\api.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\incl-search-providers.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\incl-search-providers.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\incl-search-providers.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\incl-special-search-providers.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\incl-special-search-providers.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\incl-special-search-providers.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\incl-special-search.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\incl-special-search.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\incl-special-search.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\index.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\index.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\index.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\regular-searches.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\regular-searches.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\regular-searches.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-api.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-api.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-api.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-asset-store.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-asset-store.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-asset-store.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-assets.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-assets.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-assets.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-calculator.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-calculator.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-calculator.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-command-query.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-command-query.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-command-query.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-filters.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-filters.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-filters.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-help.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-help.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-help.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-menu.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-menu.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-menu.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-online.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-online.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-online.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-packages.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-packages.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-packages.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-resources.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-resources.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-resources.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-scene.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-scene.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-scene.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-settings.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-settings.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\search-settings.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\settings.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\settings.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\settings.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\special-searches.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\special-searches.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\special-searches.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\usage.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\usage.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Documentation~\usage.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\AsyncSearchSession.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\AsyncSearchSession.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\AsyncSearchSession.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\AsyncSearchSession.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\AsyncSearchSession.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\AsyncSearchSession.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\FilterWindow.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\FilterWindow.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\FilterWindow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\FilterWindow.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\FilterWindow.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\FilterWindow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\FuzzySearch.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\FuzzySearch.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\FuzzySearch.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\FuzzySearch.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\FuzzySearch.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\FuzzySearch.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\clear.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\clear.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\clear.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\clear.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\clear.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\clear.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\filter.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\filter.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\filter.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\filter.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\filter.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\filter.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\loading.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\loading.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\loading.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\loading.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\loading.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\loading.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_error.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_error.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_error.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_error.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_error.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_error.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_info.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_info.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_info.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_info.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_info.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_info.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_warning.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_warning.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_warning.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_warning.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_warning.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\log_warning.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\more.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\more.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\more.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\more.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\more.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\more.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\package_installed.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\package_installed.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\package_installed.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\package_installed.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\package_installed.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\package_installed.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\package_update.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\package_update.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\package_update.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\package_update.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\package_update.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\package_update.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\quicksearch.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\quicksearch.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\quicksearch.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\quicksearch.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\quicksearch.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\quicksearch.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\search.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\search.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\search.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\search.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\search.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\search.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\settings.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\settings.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\settings.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\settings.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\settings.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\settings.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\shortcut.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\shortcut.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\shortcut.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\shortcut.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\shortcut.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\shortcut.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\store.png
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\store.png
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\store.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\store.png.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\store.png.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Icons\store.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\ADBIndex.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\ADBIndex.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\ADBIndex.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\ADBIndex.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\ADBIndex.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\ADBIndex.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetIndexer.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetIndexer.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetIndexer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetIndexer.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetIndexer.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetIndexer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetPostprocessorIndexer.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetPostprocessorIndexer.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetPostprocessorIndexer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetPostprocessorIndexer.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetPostprocessorIndexer.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetPostprocessorIndexer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetProvider.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetProvider.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetProvider.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetProvider.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetStoreProvider.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetStoreProvider.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetStoreProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetStoreProvider.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetStoreProvider.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\AssetStoreProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\Calculator.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\Calculator.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\Calculator.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\Calculator.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\Calculator.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\Calculator.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\Eval.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\Eval.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\Eval.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\Eval.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\Eval.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\Eval.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\FileSearchIndexer.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\FileSearchIndexer.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\FileSearchIndexer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\FileSearchIndexer.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\FileSearchIndexer.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\FileSearchIndexer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\HelpProvider.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\HelpProvider.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\HelpProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\HelpProvider.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\HelpProvider.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\HelpProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\LogProvider.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\LogProvider.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\LogProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\LogProvider.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\LogProvider.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\LogProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\MenuProvider.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\MenuProvider.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\MenuProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\MenuProvider.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\MenuProvider.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\MenuProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\OnlineSearchProviders.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\OnlineSearchProviders.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\OnlineSearchProviders.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\OnlineSearchProviders.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\OnlineSearchProviders.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\OnlineSearchProviders.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\PackageManagerProvider.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\PackageManagerProvider.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\PackageManagerProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\PackageManagerProvider.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\PackageManagerProvider.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\PackageManagerProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\ResourceProvider.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\ResourceProvider.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\ResourceProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\ResourceProvider.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\ResourceProvider.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\ResourceProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SceneProvider.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SceneProvider.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SceneProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SceneProvider.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SceneProvider.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SceneProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SearchIndexer.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SearchIndexer.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SearchIndexer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SearchIndexer.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SearchIndexer.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SearchIndexer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SettingsProvider.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SettingsProvider.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SettingsProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SettingsProvider.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SettingsProvider.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\SettingsProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\StaticMethodProvider.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\StaticMethodProvider.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\StaticMethodProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\StaticMethodProvider.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\StaticMethodProvider.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\StaticMethodProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\UIElementsSearchProvider.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\UIElementsSearchProvider.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\UIElementsSearchProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\UIElementsSearchProvider.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\UIElementsSearchProvider.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Providers\UIElementsSearchProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\DataWalkerQueryHandler.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\DataWalkerQueryHandler.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\DataWalkerQueryHandler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\DataWalkerQueryHandler.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\DataWalkerQueryHandler.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\DataWalkerQueryHandler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryEngine.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryEngine.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryEngine.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryEngine.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryEngine.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryEngine.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilterOperations.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilterOperations.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilterOperations.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilterOperations.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilterOperations.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilterOperations.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilterOperators.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilterOperators.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilterOperators.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilterOperators.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilterOperators.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilterOperators.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilters.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilters.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilters.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilters.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilters.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryFilters.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryGraph.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryGraph.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryGraph.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryGraph.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryGraph.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryGraph.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryGraphViewer.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryGraphViewer.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryGraphViewer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryGraphViewer.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryGraphViewer.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryGraphViewer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryNodes.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryNodes.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryNodes.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryNodes.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryNodes.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QueryEngine\QueryNodes.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QuickSearch.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QuickSearch.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QuickSearch.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QuickSearch.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QuickSearch.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\QuickSearch.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\ResourceDescriptors.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\ResourceDescriptors.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\ResourceDescriptors.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\ResourceDescriptors.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\ResourceDescriptors.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\ResourceDescriptors.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchAction.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchAction.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchAction.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchAction.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchAction.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchAction.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchAnalytics.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchAnalytics.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchAnalytics.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchAnalytics.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchAnalytics.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchAnalytics.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchContext.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchContext.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchContext.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchContext.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchContext.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchContext.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchFilter.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchFilter.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchFilter.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchFilter.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchFilter.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchFilter.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchItem.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchItem.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchItem.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchItem.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchItem.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchItem.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchProvider.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchProvider.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchProvider.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchProvider.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchService.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchService.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchService.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchService.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchService.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchService.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchSettings.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchSettings.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchSettings.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchSettings.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchSettings.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchSettings.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchUtils.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchUtils.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchUtils.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchUtils.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchUtils.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\SearchUtils.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\StyleSheets.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\StyleSheets.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\StyleSheets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\StyleSheets\Extensions.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\StyleSheets\Extensions.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\StyleSheets\Extensions.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\StyleSheets\Extensions\common.uss
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\StyleSheets\Extensions\common.uss
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\StyleSheets\Extensions\common.uss
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\StyleSheets\Extensions\common.uss.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\StyleSheets\Extensions\common.uss.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\StyleSheets\Extensions\common.uss.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Utils.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Utils.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Utils.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Utils.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Utils.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\Utils.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\com.unity.quicksearch.asmdef
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\com.unity.quicksearch.asmdef
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\com.unity.quicksearch.asmdef
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\com.unity.quicksearch.asmdef.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\com.unity.quicksearch.asmdef.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Editor\com.unity.quicksearch.asmdef.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\LICENSE.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\LICENSE.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\LICENSE.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\LICENSE.md.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\LICENSE.md.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\LICENSE.md.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\README.md
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\README.md
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\README.md.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\README.md.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\README.md.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic\.sample.json
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic\.sample.json
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic\.sample.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic\Editor.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic\Editor.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic\Editor\QueryEngineBasic.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic\Editor\QueryEngineBasic.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic\Editor\QueryEngineBasic.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic\Editor\QueryEngineBasic.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic\Editor\QueryEngineBasic.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineBasic\Editor\QueryEngineBasic.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators\.sample.json
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators\.sample.json
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators\.sample.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators\Editor.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators\Editor.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators\Editor\QueryEngineCustomOperators.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators\Editor\QueryEngineCustomOperators.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators\Editor\QueryEngineCustomOperators.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators\Editor\QueryEngineCustomOperators.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators\Editor\QueryEngineCustomOperators.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\QueryEngineCustomOperators\Editor\QueryEngineCustomOperators.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider\.sample.json
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider\.sample.json
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider\.sample.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider\Editor.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider\Editor.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider\Editor\SpatialProvider.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider\Editor\SpatialProvider.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider\Editor\SpatialProvider.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider\Editor\SpatialProvider.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider\Editor\SpatialProvider.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Samples~\SpatialProvider\Editor\SpatialProvider.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\.tests.json
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\.tests.json
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\.tests.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\Content.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\Content.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\Content.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\Content\test_material_42.mat
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\Content\test_material_42.mat
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\Content\test_material_42.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\Content\test_material_42.mat.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\Content\test_material_42.mat.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\Content\test_material_42.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\QueryEngineTests.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\QueryEngineTests.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\QueryEngineTests.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\QueryEngineTests.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\QueryEngineTests.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\QueryEngineTests.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\QuickSearchToolTests.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\QuickSearchToolTests.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\QuickSearchToolTests.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\QuickSearchToolTests.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\QuickSearchToolTests.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\QuickSearchToolTests.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\SearchIndexerTests.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\SearchIndexerTests.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\SearchIndexerTests.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\SearchIndexerTests.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\SearchIndexerTests.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\SearchIndexerTests.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\SearchServiceTests.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\SearchServiceTests.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\SearchServiceTests.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\SearchServiceTests.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\SearchServiceTests.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\SearchServiceTests.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\UtilsTests.cs
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\UtilsTests.cs
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\UtilsTests.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\UtilsTests.cs.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\UtilsTests.cs.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\UtilsTests.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\com.unity.quicksearch.tests.asmdef
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\com.unity.quicksearch.tests.asmdef
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\com.unity.quicksearch.tests.asmdef
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\com.unity.quicksearch.tests.asmdef.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\com.unity.quicksearch.tests.asmdef.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\Tests\Editor\com.unity.quicksearch.tests.asmdef.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\package.json
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\package.json
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\package.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageCache\com.unity.quicksearch@1.5.4\package.json.meta
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageCache\com.unity.quicksearch@1.5.4\package.json.meta
+      projectPath: Library\PackageCache\com.unity.quicksearch@1.5.4\package.json.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\PackageManager\ProjectCache.bin
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\PackageManager\ProjectCache.bin
+      projectPath: Library\PackageManager\ProjectCache.bin
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.Timeline.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.quicksearch.dll
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\com.unity.quicksearch.dll
+      projectPath: Library\ScriptAssemblies\com.unity.quicksearch.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\com.unity.quicksearch.pdb
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\com.unity.quicksearch.pdb
+      projectPath: Library\ScriptAssemblies\com.unity.quicksearch.pdb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Style.catalog
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\Style.catalog
+      projectPath: Library\Style.catalog
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\quicksearch.asset.index
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\quicksearch.asset.index
+      projectPath: Library\quicksearch.asset.index
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: D:\Unity_Game_Development\SpriteFPS\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: SpriteFPS.sln
+      fullPath: D:\Unity_Game_Development\SpriteFPS\SpriteFPS.sln
+      projectPath: SpriteFPS.sln
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: D:\Unity_Game_Development\SpriteFPS\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      fullPath: D:\Unity_Game_Development\SpriteFPS\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: D:\Unity_Game_Development\SpriteFPS\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: f8ce2dbc54fbd4b3311bf7295872ec3001d3b2d6
     mergeA: 
     mergeB: 
