@@ -18,6 +18,11 @@ MonoBehaviour:
   entries:
   - path: .vs\SpriteFPS\v16\.suo
     fullPath: D:\Unity_Game_Development\SpriteFPS\.vs\SpriteFPS\v16\.suo
+  lastUpdatedAtString: 2020-08-26T19:53:32.709-04:00
+  initializedAtString: 2020-08-26T18:28:02.094-04:00
+  entries:
+  - path: .vs\SpriteFPS\v16\.suo
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\.vs\SpriteFPS\v16\.suo
     projectPath: .vs\SpriteFPS\v16\.suo
     originalPath: 
     indexStatus: 0
@@ -28,8 +33,75 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Moving Room Objects.unity
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Assets\Scenes\Moving
+      Room Objects.unity
+    projectPath: Assets\Scenes\Moving Room Objects.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\ElevatorController.cs
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Assets\Scripts\ElevatorController.cs
+    projectPath: Assets\Scripts\ElevatorController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\ElevatorController.cs.meta
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Assets\Scripts\ElevatorController.cs.meta
+    projectPath: Assets\Scripts\ElevatorController.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\GameEvents.cs
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Assets\Scripts\GameEvents.cs
+    projectPath: Assets\Scripts\GameEvents.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Interactable.cs
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Assets\Scripts\Interactable.cs
+    projectPath: Assets\Scripts\Interactable.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\InteractionController.cs
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Assets\Scripts\InteractionController.cs
+    projectPath: Assets\Scripts\InteractionController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\SpriteInteractable.cs
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Assets\Scripts\SpriteInteractable.cs
+    projectPath: Assets\Scripts\SpriteInteractable.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SpriteInteractable.cs.meta
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Assets\Scripts\SpriteInteractable.cs.meta
+    projectPath: Assets\Scripts\SpriteInteractable.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SpriteInteractionController.cs
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Assets\Scripts\SpriteInteractionController.cs
+    projectPath: Assets\Scripts\SpriteInteractionController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SpriteInteractionController.cs.meta
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Assets\Scripts\SpriteInteractionController.cs.meta
+    projectPath: Assets\Scripts\SpriteInteractionController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
-    fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ArtifactDB
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
@@ -115,11 +187,206 @@ MonoBehaviour:
   - path: Library\CurrentLayout-default.dwlt
     fullPath: D:\Unity_Game_Development\SpriteFPS\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
+  - path: Library\Artifacts\03\033e871b8df0d45717ebc36ae4f8eabe
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\03\033e871b8df0d45717ebc36ae4f8eabe
+    projectPath: Library\Artifacts\03\033e871b8df0d45717ebc36ae4f8eabe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\08\08a540dbd6267fd7cc0c983ebe12b2df
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\08\08a540dbd6267fd7cc0c983ebe12b2df
+    projectPath: Library\Artifacts\08\08a540dbd6267fd7cc0c983ebe12b2df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\13\134f0012414fe08dd9848994c643103d
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\13\134f0012414fe08dd9848994c643103d
+    projectPath: Library\Artifacts\13\134f0012414fe08dd9848994c643103d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\13\13c5f8777f34beddd8888cd4cdd6773a
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\13\13c5f8777f34beddd8888cd4cdd6773a
+    projectPath: Library\Artifacts\13\13c5f8777f34beddd8888cd4cdd6773a
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Library\Artifacts\39\391d5db358bea39b5e8e499684091f2d
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\39\391d5db358bea39b5e8e499684091f2d
+    projectPath: Library\Artifacts\39\391d5db358bea39b5e8e499684091f2d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3a\3a35bc2eb0cd37953542da91ba1593fc
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\3a\3a35bc2eb0cd37953542da91ba1593fc
+    projectPath: Library\Artifacts\3a\3a35bc2eb0cd37953542da91ba1593fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3d\3dfa8d1c84a014b53cbc92d89bbc3f04
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\3d\3dfa8d1c84a014b53cbc92d89bbc3f04
+    projectPath: Library\Artifacts\3d\3dfa8d1c84a014b53cbc92d89bbc3f04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3f\3f766214935c87ecc0771e5d54e6da78
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\3f\3f766214935c87ecc0771e5d54e6da78
+    projectPath: Library\Artifacts\3f\3f766214935c87ecc0771e5d54e6da78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\45\4514bd92ff38f112fbba162533a5635f
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\45\4514bd92ff38f112fbba162533a5635f
+    projectPath: Library\Artifacts\45\4514bd92ff38f112fbba162533a5635f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4e\4e0ccf8b87cdf44499358c0e3f4dbe0e
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\4e\4e0ccf8b87cdf44499358c0e3f4dbe0e
+    projectPath: Library\Artifacts\4e\4e0ccf8b87cdf44499358c0e3f4dbe0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\66\665472ecb598ac19312dff5e85136789
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\66\665472ecb598ac19312dff5e85136789
+    projectPath: Library\Artifacts\66\665472ecb598ac19312dff5e85136789
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\78\78c62b249ebbb816e5a0a0de61c5a5fc
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\78\78c62b249ebbb816e5a0a0de61c5a5fc
+    projectPath: Library\Artifacts\78\78c62b249ebbb816e5a0a0de61c5a5fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7a\7a78a6faa96fda9459234de2e302b02f
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\7a\7a78a6faa96fda9459234de2e302b02f
+    projectPath: Library\Artifacts\7a\7a78a6faa96fda9459234de2e302b02f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\85\85c340227609d98dd9a957dc2710b56f
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\85\85c340227609d98dd9a957dc2710b56f
+    projectPath: Library\Artifacts\85\85c340227609d98dd9a957dc2710b56f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8a\8abc83510f39ef86e6544e868c1c9c5d
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\8a\8abc83510f39ef86e6544e868c1c9c5d
+    projectPath: Library\Artifacts\8a\8abc83510f39ef86e6544e868c1c9c5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\90\90d9c67d2efe853e141a00d9d705b692
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\90\90d9c67d2efe853e141a00d9d705b692
+    projectPath: Library\Artifacts\90\90d9c67d2efe853e141a00d9d705b692
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a5\a5c9787158c7ad60cb754da789519dbf
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\a5\a5c9787158c7ad60cb754da789519dbf
+    projectPath: Library\Artifacts\a5\a5c9787158c7ad60cb754da789519dbf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a7\a7052a8878e2d955c5c9212616634c6e
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\a7\a7052a8878e2d955c5c9212616634c6e
+    projectPath: Library\Artifacts\a7\a7052a8878e2d955c5c9212616634c6e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\ae\ae0d6fa3d999deb4cffb8b52aff8cb80
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\ae\ae0d6fa3d999deb4cffb8b52aff8cb80
+    projectPath: Library\Artifacts\ae\ae0d6fa3d999deb4cffb8b52aff8cb80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b0\b0fdc09d3c08257106643956bde744cc
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\b0\b0fdc09d3c08257106643956bde744cc
+    projectPath: Library\Artifacts\b0\b0fdc09d3c08257106643956bde744cc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\be\be9c566a34b553b01e4cfd4b3b2adc3d
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\be\be9c566a34b553b01e4cfd4b3b2adc3d
+    projectPath: Library\Artifacts\be\be9c566a34b553b01e4cfd4b3b2adc3d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c9\c9743d5f3c225ef586d403627ae613e2
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\c9\c9743d5f3c225ef586d403627ae613e2
+    projectPath: Library\Artifacts\c9\c9743d5f3c225ef586d403627ae613e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cb\cb5ce5211f9e9dc22345b763a8aa5255
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\cb\cb5ce5211f9e9dc22345b763a8aa5255
+    projectPath: Library\Artifacts\cb\cb5ce5211f9e9dc22345b763a8aa5255
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ce\ce7ca24b644f72a0eedf17f72a54f650
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\ce\ce7ca24b644f72a0eedf17f72a54f650
+    projectPath: Library\Artifacts\ce\ce7ca24b644f72a0eedf17f72a54f650
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d3\d3f345135334f1aafd7e84535d3a5dd7
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\d3\d3f345135334f1aafd7e84535d3a5dd7
+    projectPath: Library\Artifacts\d3\d3f345135334f1aafd7e84535d3a5dd7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d49a30232b917fc4e854d9a6430bfc19
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\d4\d49a30232b917fc4e854d9a6430bfc19
+    projectPath: Library\Artifacts\d4\d49a30232b917fc4e854d9a6430bfc19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d5\d55f673f60464181d01dc5543adbef8d
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\d5\d55f673f60464181d01dc5543adbef8d
+    projectPath: Library\Artifacts\d5\d55f673f60464181d01dc5543adbef8d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\db\dbbbe68797972d92693c7c1e16937c87
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\db\dbbbe68797972d92693c7c1e16937c87
+    projectPath: Library\Artifacts\db\dbbbe68797972d92693c7c1e16937c87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f4\f4bee835f4aa2cf1b1fed24a0f5a11e2
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\f4\f4bee835f4aa2cf1b1fed24a0f5a11e2
+    projectPath: Library\Artifacts\f4\f4bee835f4aa2cf1b1fed24a0f5a11e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f7\f70db10e43d8b0de8fa9650900c9155b
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\f7\f70db10e43d8b0de8fa9650900c9155b
+    projectPath: Library\Artifacts\f7\f70db10e43d8b0de8fa9650900c9155b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f7\f726c1ee9eab01e0f4ec7c5f47256058
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\f7\f726c1ee9eab01e0f4ec7c5f47256058
+    projectPath: Library\Artifacts\f7\f726c1ee9eab01e0f4ec7c5f47256058
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fe\fea88240607684f5cc96f7588ca9c5b5
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\fe\fea88240607684f5cc96f7588ca9c5b5
+    projectPath: Library\Artifacts\fe\fea88240607684f5cc96f7588ca9c5b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ff\ff0eeb37947e7e7c88fb383b032c8fc2
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\Artifacts\ff\ff0eeb37947e7e7c88fb383b032c8fc2
+    projectPath: Library\Artifacts\ff\ff0eeb37947e7e7c88fb383b032c8fc2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\EditorInstance.json
-    fullPath: D:\Unity_Game_Development\SpriteFPS\Library\EditorInstance.json
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
@@ -131,7 +398,7 @@ MonoBehaviour:
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gitlocks.yaml
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
@@ -143,37 +410,37 @@ MonoBehaviour:
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gituser.yaml
-    fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\gituser.yaml
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\gfu\cache\gituser.yaml
     projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: D:\Unity_Game_Development\SpriteFPS\Library\gfu\cache\repoinfo.yaml
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\InspectorExpandedItems.asset
-    fullPath: D:\Unity_Game_Development\SpriteFPS\Library\InspectorExpandedItems.asset
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
-    fullPath: D:\Unity_Game_Development\SpriteFPS\Library\SceneVisibilityState.asset
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
@@ -367,11 +634,25 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
     fullPath: D:\Unity_Game_Development\SpriteFPS\Library\ScriptAssemblies\UnityEngine.UI.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\SourceAssetDB
-    fullPath: D:\Unity_Game_Development\SpriteFPS\Library\SourceAssetDB
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
@@ -383,7 +664,7 @@ MonoBehaviour:
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\StateCache\MainStageHierarchy\de\de024311daf11c1b46cd26ae698618bc.json
-    fullPath: D:\Unity_Game_Development\SpriteFPS\Library\StateCache\MainStageHierarchy\de\de024311daf11c1b46cd26ae698618bc.json
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\StateCache\MainStageHierarchy\de\de024311daf11c1b46cd26ae698618bc.json
     projectPath: Library\StateCache\MainStageHierarchy\de\de024311daf11c1b46cd26ae698618bc.json
     originalPath: 
     indexStatus: 0
@@ -408,6 +689,14 @@ MonoBehaviour:
     workTreeStatus: 1
   - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     fullPath: D:\Unity_Game_Development\SpriteFPS\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+  - path: Library\StateCache\SceneView\f5\f5e550d042f438b3fc0e55d0cc87b6ad.json
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Library\StateCache\SceneView\f5\f5e550d042f438b3fc0e55d0cc87b6ad.json
+    projectPath: Library\StateCache\SceneView\f5\f5e550d042f438b3fc0e55d0cc87b6ad.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 0
@@ -425,13 +714,13 @@ MonoBehaviour:
     indexStatus: 1
     workTreeStatus: 1
   - path: Temp\__Backupscenes\0.backup
-    fullPath: D:\Unity_Game_Development\SpriteFPS\Temp\__Backupscenes\0.backup
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Temp\UnityLockfile
-    fullPath: D:\Unity_Game_Development\SpriteFPS\Temp\UnityLockfile
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
@@ -529,6 +818,327 @@ MonoBehaviour:
   - path: Temp\UnityTempFile-fc0d7b080f175594cb0e2b156d3049bc
     fullPath: D:\Unity_Game_Development\SpriteFPS\Temp\UnityTempFile-fc0d7b080f175594cb0e2b156d3049bc
     projectPath: Temp\UnityTempFile-fc0d7b080f175594cb0e2b156d3049bc
+  - path: Temp\UnityTempFile-0349cda8058940149b09c7e92a340da5
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-0349cda8058940149b09c7e92a340da5
+    projectPath: Temp\UnityTempFile-0349cda8058940149b09c7e92a340da5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-067768aa42b7c1141bc620b58e5c937a
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-067768aa42b7c1141bc620b58e5c937a
+    projectPath: Temp\UnityTempFile-067768aa42b7c1141bc620b58e5c937a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-091d4788c2d1e9f4abf900bd0b429239
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-091d4788c2d1e9f4abf900bd0b429239
+    projectPath: Temp\UnityTempFile-091d4788c2d1e9f4abf900bd0b429239
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0ab9502ead7768242a2c35e58d013bfc
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-0ab9502ead7768242a2c35e58d013bfc
+    projectPath: Temp\UnityTempFile-0ab9502ead7768242a2c35e58d013bfc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0f7922e85ba5f4c4f83c81afe89dcaac
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-0f7922e85ba5f4c4f83c81afe89dcaac
+    projectPath: Temp\UnityTempFile-0f7922e85ba5f4c4f83c81afe89dcaac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-108b95ff06bd1a145bee9e21977cea72
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-108b95ff06bd1a145bee9e21977cea72
+    projectPath: Temp\UnityTempFile-108b95ff06bd1a145bee9e21977cea72
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-12f03e024bfd98443bbc8eb9a7910091
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-12f03e024bfd98443bbc8eb9a7910091
+    projectPath: Temp\UnityTempFile-12f03e024bfd98443bbc8eb9a7910091
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1499864fa141cad4081f9d3deceeff14
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-1499864fa141cad4081f9d3deceeff14
+    projectPath: Temp\UnityTempFile-1499864fa141cad4081f9d3deceeff14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1607afaa9c307bb4c86829acfbf2bb28
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-1607afaa9c307bb4c86829acfbf2bb28
+    projectPath: Temp\UnityTempFile-1607afaa9c307bb4c86829acfbf2bb28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2773e77e538abdb49945eff81e56fd33
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-2773e77e538abdb49945eff81e56fd33
+    projectPath: Temp\UnityTempFile-2773e77e538abdb49945eff81e56fd33
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2bf7788cab6fc8a40b54934eed8bc7f0
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-2bf7788cab6fc8a40b54934eed8bc7f0
+    projectPath: Temp\UnityTempFile-2bf7788cab6fc8a40b54934eed8bc7f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2e63a26fc301efd45b7eba62d1b7c142
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-2e63a26fc301efd45b7eba62d1b7c142
+    projectPath: Temp\UnityTempFile-2e63a26fc301efd45b7eba62d1b7c142
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2f59427679f74a345bad8b4a237c3a82
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-2f59427679f74a345bad8b4a237c3a82
+    projectPath: Temp\UnityTempFile-2f59427679f74a345bad8b4a237c3a82
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-359fb5b31a211d74597e830166d2edb8
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-359fb5b31a211d74597e830166d2edb8
+    projectPath: Temp\UnityTempFile-359fb5b31a211d74597e830166d2edb8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3b261b448a987ec429090d0706ca5af1
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-3b261b448a987ec429090d0706ca5af1
+    projectPath: Temp\UnityTempFile-3b261b448a987ec429090d0706ca5af1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3e7a27132676fb240953a4e5f1119901
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-3e7a27132676fb240953a4e5f1119901
+    projectPath: Temp\UnityTempFile-3e7a27132676fb240953a4e5f1119901
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-43c4404cab3ccc84aaee84a7844d3a53
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-43c4404cab3ccc84aaee84a7844d3a53
+    projectPath: Temp\UnityTempFile-43c4404cab3ccc84aaee84a7844d3a53
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-69c9c343a0ec72445996f56438f5793a
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-69c9c343a0ec72445996f56438f5793a
+    projectPath: Temp\UnityTempFile-69c9c343a0ec72445996f56438f5793a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6d89650650c9a5248992db589c7186b5
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-6d89650650c9a5248992db589c7186b5
+    projectPath: Temp\UnityTempFile-6d89650650c9a5248992db589c7186b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-72fab05e89e72004ba8cca538355d1fa
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-72fab05e89e72004ba8cca538355d1fa
+    projectPath: Temp\UnityTempFile-72fab05e89e72004ba8cca538355d1fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7b1862aa4e659f646a4a550432c5de3c
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-7b1862aa4e659f646a4a550432c5de3c
+    projectPath: Temp\UnityTempFile-7b1862aa4e659f646a4a550432c5de3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7ef507bb030b6b8498bd09ce33759778
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-7ef507bb030b6b8498bd09ce33759778
+    projectPath: Temp\UnityTempFile-7ef507bb030b6b8498bd09ce33759778
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-823040dbb3f136b4f94f23381c006689
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-823040dbb3f136b4f94f23381c006689
+    projectPath: Temp\UnityTempFile-823040dbb3f136b4f94f23381c006689
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-88d2e45ecca49f74ba8cb6eedc25128b
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-88d2e45ecca49f74ba8cb6eedc25128b
+    projectPath: Temp\UnityTempFile-88d2e45ecca49f74ba8cb6eedc25128b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8dc359eebd847d142be33e4b39ef639d
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-8dc359eebd847d142be33e4b39ef639d
+    projectPath: Temp\UnityTempFile-8dc359eebd847d142be33e4b39ef639d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8e38eaa47e6e4884bb8ed9fdbfc96c59
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-8e38eaa47e6e4884bb8ed9fdbfc96c59
+    projectPath: Temp\UnityTempFile-8e38eaa47e6e4884bb8ed9fdbfc96c59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8e62ed0b56f6d7241bdd1ada6de746f0
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-8e62ed0b56f6d7241bdd1ada6de746f0
+    projectPath: Temp\UnityTempFile-8e62ed0b56f6d7241bdd1ada6de746f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-98e91d2dff21d3b479914e2614c8724a
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-98e91d2dff21d3b479914e2614c8724a
+    projectPath: Temp\UnityTempFile-98e91d2dff21d3b479914e2614c8724a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9a98dd859b95d804fb9b73af5980f582
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-9a98dd859b95d804fb9b73af5980f582
+    projectPath: Temp\UnityTempFile-9a98dd859b95d804fb9b73af5980f582
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a8788a65388028c49aed7bd9a431c1c8
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-a8788a65388028c49aed7bd9a431c1c8
+    projectPath: Temp\UnityTempFile-a8788a65388028c49aed7bd9a431c1c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a9d5880629d348549921e5937a7a2887
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-a9d5880629d348549921e5937a7a2887
+    projectPath: Temp\UnityTempFile-a9d5880629d348549921e5937a7a2887
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ab37677c4e9c0fd4584e4af197dad1a4
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-ab37677c4e9c0fd4584e4af197dad1a4
+    projectPath: Temp\UnityTempFile-ab37677c4e9c0fd4584e4af197dad1a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ade333bd3f7827141ba0e56a0877ef95
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-ade333bd3f7827141ba0e56a0877ef95
+    projectPath: Temp\UnityTempFile-ade333bd3f7827141ba0e56a0877ef95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b1674a0a328d0ea419d4b1a9f49157c3
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-b1674a0a328d0ea419d4b1a9f49157c3
+    projectPath: Temp\UnityTempFile-b1674a0a328d0ea419d4b1a9f49157c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b7b5bce83e91bb840b6891fc734f775c
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-b7b5bce83e91bb840b6891fc734f775c
+    projectPath: Temp\UnityTempFile-b7b5bce83e91bb840b6891fc734f775c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b7e8d853bb183eb4fae3adfe42da6e09
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-b7e8d853bb183eb4fae3adfe42da6e09
+    projectPath: Temp\UnityTempFile-b7e8d853bb183eb4fae3adfe42da6e09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b9641586c390dea4689c34eeeb012c28
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-b9641586c390dea4689c34eeeb012c28
+    projectPath: Temp\UnityTempFile-b9641586c390dea4689c34eeeb012c28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c3935d4ef81954e4d86e728af9d33bdf
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-c3935d4ef81954e4d86e728af9d33bdf
+    projectPath: Temp\UnityTempFile-c3935d4ef81954e4d86e728af9d33bdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c5900cf93a86d884eb095b62f7318d5b
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-c5900cf93a86d884eb095b62f7318d5b
+    projectPath: Temp\UnityTempFile-c5900cf93a86d884eb095b62f7318d5b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cea840399d99e964d97d2734755f0b70
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-cea840399d99e964d97d2734755f0b70
+    projectPath: Temp\UnityTempFile-cea840399d99e964d97d2734755f0b70
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d1034c5e3ed23fb42b9899a892259886
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-d1034c5e3ed23fb42b9899a892259886
+    projectPath: Temp\UnityTempFile-d1034c5e3ed23fb42b9899a892259886
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d8d15ed349375704886201bdb4295597
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-d8d15ed349375704886201bdb4295597
+    projectPath: Temp\UnityTempFile-d8d15ed349375704886201bdb4295597
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d9304b37832ac4241827e7097c8b2293
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-d9304b37832ac4241827e7097c8b2293
+    projectPath: Temp\UnityTempFile-d9304b37832ac4241827e7097c8b2293
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-de79ed9ead0dff94fb37715c1a5432b7
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-de79ed9ead0dff94fb37715c1a5432b7
+    projectPath: Temp\UnityTempFile-de79ed9ead0dff94fb37715c1a5432b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-df87c439df237af48a9a840a46f63f07
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-df87c439df237af48a9a840a46f63f07
+    projectPath: Temp\UnityTempFile-df87c439df237af48a9a840a46f63f07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e2311acb6a1fbb140b6087aa64b818ff
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-e2311acb6a1fbb140b6087aa64b818ff
+    projectPath: Temp\UnityTempFile-e2311acb6a1fbb140b6087aa64b818ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ec988dcd76a90b041a77dbab296852ed
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-ec988dcd76a90b041a77dbab296852ed
+    projectPath: Temp\UnityTempFile-ec988dcd76a90b041a77dbab296852ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-eecf41db3492b4248ad30dfaa13bb188
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-eecf41db3492b4248ad30dfaa13bb188
+    projectPath: Temp\UnityTempFile-eecf41db3492b4248ad30dfaa13bb188
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f2e430dc3ca0d0e47bcb5c42ffa2a972
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-f2e430dc3ca0d0e47bcb5c42ffa2a972
+    projectPath: Temp\UnityTempFile-f2e430dc3ca0d0e47bcb5c42ffa2a972
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f3d6ae279e4956948bb87440936b9ec2
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-f3d6ae279e4956948bb87440936b9ec2
+    projectPath: Temp\UnityTempFile-f3d6ae279e4956948bb87440936b9ec2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f584f7988d7000242960448573dc9056
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-f584f7988d7000242960448573dc9056
+    projectPath: Temp\UnityTempFile-f584f7988d7000242960448573dc9056
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f66e25295b7ae164d90375a19be997c4
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-f66e25295b7ae164d90375a19be997c4
+    projectPath: Temp\UnityTempFile-f66e25295b7ae164d90375a19be997c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f74124460d2fbc44297808cff98f041a
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-f74124460d2fbc44297808cff98f041a
+    projectPath: Temp\UnityTempFile-f74124460d2fbc44297808cff98f041a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fda3904a8b3230f4eb6ad514090a7aee
+    fullPath: G:\Library\Productive Documents\SpriteFPS\SpriteFPS\Temp\UnityTempFile-fda3904a8b3230f4eb6ad514090a7aee
+    projectPath: Temp\UnityTempFile-fda3904a8b3230f4eb6ad514090a7aee
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-//TODO: Add custom keybindings
+//TODO: Look into sprinting bool
 
 namespace SpriteFPS.General {
     public class Player : MonoBehaviour {
@@ -15,6 +15,14 @@ namespace SpriteFPS.General {
 
         private float speed;
         private float walkingSpeed;
+
+        // Player Stats
+        public int maxHealth = 100;
+        public int maxArmor = 100;
+        public int health = 100;
+        public int armor = 100;
+        int[] ammo;
+        Weapon[] weapons;
 
         private bool sprinting;
 
@@ -115,6 +123,7 @@ namespace SpriteFPS.General {
         #endregion
 
         #region Interact
+
         private void Interact() {
             //Debug.LogError("Interact Function Ran");
 
@@ -141,9 +150,11 @@ namespace SpriteFPS.General {
                 }
             }
         }
+
         #endregion
 
         #region Misc
+
         public float Speed {
             get {
                 return 12f;
@@ -163,6 +174,7 @@ namespace SpriteFPS.General {
                 walkingSpeed = value;
             }
         }
+        
         #endregion
     }
 

@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - SpriteObject
+  - Door
+  - Elevator
   layers:
   - Default
   - TransparentFX
