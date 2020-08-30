@@ -8,6 +8,7 @@ TagManager:
   - SpriteObject
   - Door
   - Elevator
+  - Weapon
   layers:
   - Default
   - TransparentFX

@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.XR.WSA.Input;
 
+[CreateAssetMenu(fileName ="New Weapon", menuName = "Weapons")]
 public class Weapon : ScriptableObject {
 
     public new string name;
@@ -13,10 +15,7 @@ public class Weapon : ScriptableObject {
 
     public int ammo;
     public int damage;
-
-    private void OnTriggerEnter(Collider hit)
-    {
-        
-    }
+    public int projectileNum;
+    public bool isLethal;
 
 }

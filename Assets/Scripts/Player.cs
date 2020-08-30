@@ -99,8 +99,8 @@ namespace SpriteFPS.General {
             // Moves the player based on their direction
             Vector3 movement = transform.right * moveX + transform.forward * moveZ;
 
-            Debug.Log("moveX: " + moveX.ToString());
-            Debug.Log("moveZ: " + moveZ.ToString());
+            //Debug.Log("moveX: " + moveX.ToString());
+            //Debug.Log("moveZ: " + moveZ.ToString());
 
             // Add the sprinting speed if it applies
             if (sprinting) {
