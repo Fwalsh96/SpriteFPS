@@ -1,5 +1,8 @@
 ﻿using System;
+using System.Security.Policy;
 using UnityEngine;
+using UnityEngine.UI;
+using System.Collections;
 
 //TODO: Look into sprinting bool
 
@@ -12,6 +15,7 @@ namespace SpriteFPS.General {
         KeyCode moveDownButton;
         KeyCode moveRightButton;
         KeyCode interactButton;
+        KeyCode fireButton;
         
         
         KeyCode weaponOne;
@@ -32,8 +36,10 @@ namespace SpriteFPS.General {
         public int armor = 100;
         int[] ammo;
         public Weapon[] weapons = new Weapon[7];
-        public Sprite equippedWeapon;
-
+        public Weapon equippedWeapon;
+        public GameObject currentProjectile;
+        public Image fpsSprite;
+        public GameObject projectileEmitter;
         private bool sprinting;
 
         public Camera mainView;
@@ -51,7 +57,8 @@ namespace SpriteFPS.General {
             moveRightButton = KeyCode.D;
             interactButton = KeyCode.E;
             weaponOne = KeyCode.Alpha1;
-
+            fireButton = KeyCode.Mouse0;
+            fpsSprite.gameObject.SetActive(false);
             speed = 12f;
             walkingSpeed = 8f;
 
@@ -96,8 +103,13 @@ namespace SpriteFPS.General {
             if (Input.GetKey(weaponOne)) {
                 Equip(1);
             }
-                //Debug.Log("Entered If Statement");
-                
+            
+            if (Input.GetKeyDown(fireButton)) {
+                Rigidbody instantiatedProjectile = Instantiate(currentProjectile.GetComponent<Rigidbody>(), projectileEmitter.transform.position, projectileEmitter.transform.rotation) as Rigidbody;
+                instantiatedProjectile.velocity = transform.TransformDirection(new Vector3(0, 0, 150));
+            }
+            //Debug.Log("Entered If Statement");
+
         }
 
         // The physic update function
@@ -147,7 +159,11 @@ namespace SpriteFPS.General {
             switch (i) {
 
                 case 1:
-                    this.equippedWeapon = weapons[0].firstPersonView;
+                    Debug.Log("Weapon Equipped");
+                    this.equippedWeapon = weapons[0];
+                    fpsSprite.sprite = equippedWeapon.firstPersonView;
+                    currentProjectile = weapons[0].projectile;
+                    fpsSprite.gameObject.SetActive(true);
                  break;
             }
         }

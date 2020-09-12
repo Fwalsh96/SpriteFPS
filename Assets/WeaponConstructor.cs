@@ -20,7 +20,7 @@ public class WeaponConstructor : MonoBehaviour
     {
         //Debug.Log("Player Hit Item");
         // Check to see if player has weapon or not.
-        if (hit.gameObject.name == "Player")
+        if (hit.gameObject.tag == "Player")
         {
             Debug.Log("Picked up weapon");
 

@@ -32,7 +32,6 @@ public class Interactable : MonoBehaviour
                     GameEvents.current.SpriteActivate(spObject.id);
                     break;
 
-
             }
 
         }
