@@ -64,6 +64,7 @@
     <Compile Include="Assets\LeanTween\Framework\LeanSmooth.cs" />
     <Compile Include="Assets\LeanTween\Framework\LeanTest.cs" />
     <Compile Include="Assets\LeanTween\Framework\LeanTween.cs" />
+    <Compile Include="Assets\WeaponConstructor.cs" />
     <Compile Include="Assets\LeanTween\Framework\LeanAudio.cs" />
     <Compile Include="Assets\Scripts\Inventory.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
@@ -78,7 +79,7 @@
     <Compile Include="Assets\Scripts\Elevator.cs" />
     <Compile Include="Assets\Scripts\DemoPickupBehavior.cs" />
     <Compile Include="Assets\Scripts\SpriteInteractionController.cs" />
-    <Compile Include="Assets\WeaponConstructor.cs" />
+    <Compile Include="Assets\DestructableWallScript.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\LeanTween\ReadMe.txt" />

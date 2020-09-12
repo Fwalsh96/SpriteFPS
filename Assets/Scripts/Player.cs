@@ -12,6 +12,15 @@ namespace SpriteFPS.General {
         KeyCode moveDownButton;
         KeyCode moveRightButton;
         KeyCode interactButton;
+        
+        
+        KeyCode weaponOne;
+        /*
+        KeyCode weaponTwo;
+        KeyCode weaponThree;
+        KeyCode weaponFour;
+        KeyCode weaponFive;
+        */
 
         private float speed;
         private float walkingSpeed;
@@ -22,7 +31,8 @@ namespace SpriteFPS.General {
         public int health = 100;
         public int armor = 100;
         int[] ammo;
-        Weapon[] weapons;
+        public Weapon[] weapons = new Weapon[7];
+        public Sprite equippedWeapon;
 
         private bool sprinting;
 
@@ -40,6 +50,7 @@ namespace SpriteFPS.General {
             moveDownButton = KeyCode.S;
             moveRightButton = KeyCode.D;
             interactButton = KeyCode.E;
+            weaponOne = KeyCode.Alpha1;
 
             speed = 12f;
             walkingSpeed = 8f;
@@ -81,6 +92,12 @@ namespace SpriteFPS.General {
                 sprinting = !sprinting;
 
             Interact();
+
+            if (Input.GetKey(weaponOne)) {
+                Equip(1);
+            }
+                //Debug.Log("Entered If Statement");
+                
         }
 
         // The physic update function
@@ -118,6 +135,21 @@ namespace SpriteFPS.General {
             float mouseSensivity = 100f;
 
             transform.Rotate(0, Input.GetAxis("Mouse X") * Time.deltaTime * mouseSensivity, 0);
+        }
+
+        #endregion
+
+        #region Equip
+
+        private void Equip(int i) {
+           
+
+            switch (i) {
+
+                case 1:
+                    this.equippedWeapon = weapons[0].firstPersonView;
+                 break;
+            }
         }
 
         #endregion
