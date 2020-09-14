@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Security.Policy;
+//using System.Security.Policy;
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
