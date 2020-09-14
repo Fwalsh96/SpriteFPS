@@ -103,10 +103,14 @@ namespace SpriteFPS.General {
             if (Input.GetKey(weaponOne)) {
                 Equip(1);
             }
-            
-            if (Input.GetKeyDown(fireButton)) {
-                Rigidbody instantiatedProjectile = Instantiate(currentProjectile.GetComponent<Rigidbody>(), projectileEmitter.transform.position, projectileEmitter.transform.rotation) as Rigidbody;
-                instantiatedProjectile.velocity = transform.TransformDirection(new Vector3(0, 0, 150));
+
+            if (equippedWeapon != null) { 
+                if (Input.GetKeyDown(fireButton) && Time.time > equippedWeapon.nextFire)
+                {
+                    equippedWeapon.nextFire = Time.time + equippedWeapon.fireRate;
+                    Rigidbody instantiatedProjectile = Instantiate(currentProjectile.GetComponent<Rigidbody>(), projectileEmitter.transform.position, projectileEmitter.transform.rotation) as Rigidbody;
+                    instantiatedProjectile.velocity = transform.TransformDirection(new Vector3(0, 0, 150));
+                }
             }
             //Debug.Log("Entered If Statement");
 
@@ -154,7 +158,6 @@ namespace SpriteFPS.General {
         #region Equip
 
         private void Equip(int i) {
-           
 
             switch (i) {
 

@@ -21,3 +21,5 @@ MonoBehaviour:
   damage: 25
   projectileNum: 4
   isLethal: 1
+  fireRate: 1
+  nextFire: 13.545879
