@@ -4,15 +4,10 @@ using UnityEngine;
 
 public class ProjectileBehavior : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    // When Colliding with anything
+    private void OnCollisionEnter(Collision collision)
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Debug.Log("Projectile Collided with something");
+        Destroy(this.gameObject);
     }
 }

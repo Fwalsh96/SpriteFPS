@@ -69,9 +69,11 @@
     <Compile Include="Assets\LeanTween\Framework\LeanAudio.cs" />
     <Compile Include="Assets\Scripts\Inventory.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\HealthUI.cs" />
     <Compile Include="Assets\Scripts\GameEvents.cs" />
     <Compile Include="Assets\Scripts\SpriteInteractable.cs" />
     <Compile Include="Assets\Scripts\Weapon.cs" />
+    <Compile Include="Assets\ProjectileBehavior.cs" />
     <Compile Include="Assets\Scripts\Armor.cs" />
     <Compile Include="Assets\LeanTween\Framework\LeanTweenExt.cs" />
     <Compile Include="Assets\LeanTween\Framework\LTDescrOptional.cs" />
@@ -80,8 +82,8 @@
     <Compile Include="Assets\Scripts\Elevator.cs" />
     <Compile Include="Assets\Scripts\DemoPickupBehavior.cs" />
     <Compile Include="Assets\Scripts\SpriteInteractionController.cs" />
-    <Compile Include="Assets\ProjectileBehavior.cs" />
-    <Compile Include="Assets\HealthUI.cs" />
+    <Compile Include="Assets\ArmorUI.cs" />
+    <Compile Include="Assets\PauseMenu.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\LeanTween\ReadMe.txt" />

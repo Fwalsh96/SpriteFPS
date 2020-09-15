@@ -16,6 +16,7 @@ namespace SpriteFPS.General {
         KeyCode moveRightButton;
         KeyCode interactButton;
         KeyCode fireButton;
+        public KeyCode pauseButton;
         
         
         KeyCode weaponOne;
@@ -59,6 +60,7 @@ namespace SpriteFPS.General {
             interactButton = KeyCode.E;
             weaponOne = KeyCode.Alpha1;
             fireButton = KeyCode.Mouse0;
+            pauseButton = KeyCode.Escape;
 
             // Preparing HUD
             fpsSprite.gameObject.SetActive(false);
@@ -112,8 +114,8 @@ namespace SpriteFPS.General {
             if (equippedWeapon != null) {
 
                 if (equippedWeapon.ammo > 0) {
-
-                    if (Input.GetKeyDown(fireButton) && Time.time > equippedWeapon.nextFire) {
+                    //&& Time.time > equippedWeapon.nextFire
+                    if (Input.GetKeyDown(fireButton)) {
 
                         equippedWeapon.nextFire = Time.time + equippedWeapon.fireRate;
                         Rigidbody instantiatedProjectile = Instantiate(currentProjectile.GetComponent<Rigidbody>(), projectileEmitter.transform.position, projectileEmitter.transform.rotation) as Rigidbody;
@@ -124,6 +126,7 @@ namespace SpriteFPS.General {
                     Debug.Log("You are out of ammo");
                 }
             }
+
             //Debug.Log("Entered If Statement");
 
         }
@@ -237,7 +240,19 @@ namespace SpriteFPS.General {
                 walkingSpeed = value;
             }
         }
-        
+
+        #endregion
+
+
+        #region Collision
+
+        private void OnCollisionEnter(Collision collision)
+        {
+            if (collision.gameObject.tag == "Projectile") {
+
+                health = health - 5;
+            }
+        }
         #endregion
     }
 
