@@ -51,6 +51,7 @@ namespace SpriteFPS.General {
 
         // Use this for initialization
         void Start() {
+            // Assigning Keycodes
             moveUpButton = KeyCode.W;
             moveLeftButton = KeyCode.A;
             moveDownButton = KeyCode.S;
@@ -58,6 +59,8 @@ namespace SpriteFPS.General {
             interactButton = KeyCode.E;
             weaponOne = KeyCode.Alpha1;
             fireButton = KeyCode.Mouse0;
+
+            // Preparing HUD
             fpsSprite.gameObject.SetActive(false);
             speed = 12f;
             walkingSpeed = 8f;
@@ -110,8 +113,8 @@ namespace SpriteFPS.General {
 
                 if (equippedWeapon.ammo > 0) {
 
-                    if (Input.GetKeyDown(fireButton) && Time.time > equippedWeapon.nextFire)
-                    {
+                    if (Input.GetKeyDown(fireButton) && Time.time > equippedWeapon.nextFire) {
+
                         equippedWeapon.nextFire = Time.time + equippedWeapon.fireRate;
                         Rigidbody instantiatedProjectile = Instantiate(currentProjectile.GetComponent<Rigidbody>(), projectileEmitter.transform.position, projectileEmitter.transform.rotation) as Rigidbody;
                         instantiatedProjectile.velocity = transform.TransformDirection(new Vector3(0, 0, 150));
