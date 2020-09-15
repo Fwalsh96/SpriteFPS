@@ -82,6 +82,7 @@ namespace SpriteFPS.General {
 
         // Update is called once per frame
         private void Update() {
+
             if (Input.GetKey(moveUpButton))
                 playerRigidbody.MovePosition(playerRigidbody.position + Move(0, 1));
 
@@ -104,12 +105,20 @@ namespace SpriteFPS.General {
                 Equip(1);
             }
 
-            if (equippedWeapon != null) { 
-                if (Input.GetKeyDown(fireButton) && Time.time > equippedWeapon.nextFire)
-                {
-                    equippedWeapon.nextFire = Time.time + equippedWeapon.fireRate;
-                    Rigidbody instantiatedProjectile = Instantiate(currentProjectile.GetComponent<Rigidbody>(), projectileEmitter.transform.position, projectileEmitter.transform.rotation) as Rigidbody;
-                    instantiatedProjectile.velocity = transform.TransformDirection(new Vector3(0, 0, 150));
+            // Weapon Firing Mechanics
+            if (equippedWeapon != null) {
+
+                if (equippedWeapon.ammo > 0) {
+
+                    if (Input.GetKeyDown(fireButton) && Time.time > equippedWeapon.nextFire)
+                    {
+                        equippedWeapon.nextFire = Time.time + equippedWeapon.fireRate;
+                        Rigidbody instantiatedProjectile = Instantiate(currentProjectile.GetComponent<Rigidbody>(), projectileEmitter.transform.position, projectileEmitter.transform.rotation) as Rigidbody;
+                        instantiatedProjectile.velocity = transform.TransformDirection(new Vector3(0, 0, 150));
+                    }
+                }
+                else {
+                    Debug.Log("You are out of ammo");
                 }
             }
             //Debug.Log("Entered If Statement");

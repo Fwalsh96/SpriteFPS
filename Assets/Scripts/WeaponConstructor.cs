@@ -26,10 +26,12 @@ public class WeaponConstructor : MonoBehaviour
 
             // If player doenst have the weapon.
             user.weapons[0] = this.weapon;
+
+            Destroy(this.gameObject);
         }
 
         // If player has weapon already, add some ammo to their inventory.
-
+        
         // Otherwise add weapon to the right weapon slot.
     }
 
