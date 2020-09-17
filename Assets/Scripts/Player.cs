@@ -29,6 +29,7 @@ namespace SpriteFPS.General {
 
         private float speed;
         private float walkingSpeed;
+        private bool allowFire = true;
 
         // Player Stats
         public int maxHealth = 100;
@@ -114,12 +115,11 @@ namespace SpriteFPS.General {
             if (equippedWeapon != null) {
 
                 if (equippedWeapon.ammo > 0) {
+                    
                     //&& Time.time > equippedWeapon.nextFire
-                    if (Input.GetKeyDown(fireButton)) {
+                    if (Input.GetKeyDown(fireButton) && (allowFire)) {
 
-                        equippedWeapon.nextFire = Time.time + equippedWeapon.fireRate;
-                        Rigidbody instantiatedProjectile = Instantiate(currentProjectile.GetComponent<Rigidbody>(), projectileEmitter.transform.position, projectileEmitter.transform.rotation) as Rigidbody;
-                        instantiatedProjectile.velocity = transform.TransformDirection(new Vector3(0, 0, 150));
+                        StartCoroutine("fire");
                     }
                 }
                 else {
@@ -129,6 +129,25 @@ namespace SpriteFPS.General {
 
             //Debug.Log("Entered If Statement");
 
+        }
+
+        // Weapon firing coroutine
+        IEnumerator fire() {
+
+            // Set allow Fire false
+            allowFire = false;
+
+            // Create the projectile
+            Rigidbody instantiatedProjectile = Instantiate(currentProjectile.GetComponent<Rigidbody>(), projectileEmitter.transform.position, projectileEmitter.transform.rotation) as Rigidbody;
+
+            // Fire projectile
+            instantiatedProjectile.velocity = transform.TransformDirection(new Vector3(0, 0, 150));
+
+            // Wait firerate
+            yield return new WaitForSeconds(5f);
+
+            // Set allow fire true
+            allowFire = true;
         }
 
         // The physic update function
