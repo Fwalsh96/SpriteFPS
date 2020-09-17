@@ -13,7 +13,7 @@ public class PauseScript : MonoBehaviour
     void Update()
     {
 
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(currentPlayer.pauseButton))
         {
 
             Debug.Log("Pause Key was pressed");
@@ -33,24 +33,38 @@ public class PauseScript : MonoBehaviour
 
     void resumeGame()
     {
+        // Deactivate the menu
         pauseMenuUI.SetActive(false);
-        //Cursor.lockState = CursorLockMode.Confined ;
-        //Cursor.visible = false;
-        //menu.gameObject.SetActive(false);
-        //Time.timeScale = 1f;
+
+        // Set the current state of the cursor to stay on the screen
+        Cursor.lockState = CursorLockMode.Locked ;
+
+        // Unpause time
+        Time.timeScale = 1f;
+
+        // Set the pause variable
         isPaused = false;
+
+        // Enable the player's ability to move
         DisableMouseLook(true, currentPlayer);
 
     }
 
     void pauseGame()
     {
+        // Load the menu
         pauseMenuUI.SetActive(true);
-        //Cursor.lockState = CursorLockMode.Locked;
-        //Cursor.visible = true;
-        //menu.gameObject.SetActive(true);
-        //Time.timeScale = 0f;
+
+        // Set the current state of the cursor
+        Cursor.lockState = CursorLockMode.None;
+
+        // Pause Time
+        Time.timeScale = 0f;
+
+        // Set the pause variable
         isPaused = true;
+
+        // Disable the player's ability to move in game
         DisableMouseLook(false, currentPlayer);
 
     }
