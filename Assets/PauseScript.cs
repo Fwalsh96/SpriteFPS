@@ -31,7 +31,8 @@ public class PauseScript : MonoBehaviour
         }
     }
 
-    void resumeGame()
+    // Function that resumes the game
+    public void resumeGame()
     {
         // Deactivate the menu
         pauseMenuUI.SetActive(false);
@@ -50,6 +51,7 @@ public class PauseScript : MonoBehaviour
 
     }
 
+    // Function that pauses the game
     void pauseGame()
     {
         // Load the menu
@@ -69,9 +71,23 @@ public class PauseScript : MonoBehaviour
 
     }
 
+    // Function that exits the game
+    public void quitGame() {
+        Debug.Log("Quit Game pressed");
+    }
+
+    // Function that returns player to the main menu
+    public void returnToMenu() {
+        Debug.Log("Main Menu pressed");
+    }
+
+    // Function that loads the options menu
+    public void optionsMenu() {
+        Debug.Log("Options menu pressed");
+    }
+
+    // Enable or disable the player controls
     private void DisableMouseLook(bool enable, Player user) {
-
-
 
         user.transform.GetComponent<Player>().enabled = enable;
     }

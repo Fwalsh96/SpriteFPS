@@ -177,11 +177,15 @@ namespace SpriteFPS.General {
             switch (i) {
 
                 case 1:
-                    Debug.Log("Weapon Equipped");
-                    this.equippedWeapon = weapons[0];
-                    fpsSprite.sprite = equippedWeapon.firstPersonView;
-                    currentProjectile = weapons[0].projectile;
-                    fpsSprite.gameObject.SetActive(true);
+
+                    if (weapons[0] != null) {
+                        Debug.Log("Weapon Equipped");
+                        this.equippedWeapon = weapons[0];
+                        fpsSprite.sprite = equippedWeapon.firstPersonView;
+                        currentProjectile = weapons[0].projectile;
+                        fpsSprite.gameObject.SetActive(true);
+                    }
+
                  break;
             }
         }
