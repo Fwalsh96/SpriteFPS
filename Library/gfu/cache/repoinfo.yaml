@@ -13,10 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-09-12T15:26:29.390-04:00
-  initializedAtString: 2020-09-12T15:26:29.390-04:00
-  lastUpdatedAtString: 2020-09-12T15:54:03.544-04:00
-  initializedAtString: 2020-09-12T15:54:03.544-04:00
+  lastUpdatedAtString: 2020-09-19T13:46:05.072-04:00
+  initializedAtString: 2020-09-19T13:46:05.072-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/Fwalsh96/SpriteFPS.git
